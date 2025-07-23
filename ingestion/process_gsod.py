@@ -41,15 +41,25 @@ def clean_and_convert(df: pd.DataFrame, station_id: str) -> pd.DataFrame:
     try:
         df = df[['DATE', 'TEMP', 'MAX', 'MIN']]
         df.columns = ['date', 'temp', 'max_temp', 'min_temp']
-        
+
+        # Convert columns to proper types
         df['date'] = pd.to_datetime(df['date'], errors='coerce')
         df['temp'] = pd.to_numeric(df['temp'], errors='coerce')
         df['max_temp'] = pd.to_numeric(df['max_temp'], errors='coerce')
         df['min_temp'] = pd.to_numeric(df['min_temp'], errors='coerce')
-        
+
+        # Replace invalid temperature values (e.g., 9999.9) with NaN
+        for col in ['temp', 'max_temp', 'min_temp']:
+            df[col] = df[col].mask(df[col] == 9999.9)
+
+        # Drop rows where date is missing (essential)
         df = df.dropna(subset=['date'])
+
+        # Optional: Drop rows where all temperature fields are missing
+        df = df.dropna(subset=['temp', 'max_temp', 'min_temp'], how='all')
+
         df['station_id'] = station_id
-        
+
         return df
     except Exception as e:
         logging.error(f"Failed cleaning file for station {station_id}: {e}")

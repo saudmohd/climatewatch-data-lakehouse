@@ -20081,3 +20081,1283 @@
 2025-07-23 11:25:12,306 | INFO | Saved Parquet: data/processed/2025/02793099999.parquet
 2025-07-23 11:25:12,912 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02793099999.parquet
 2025-07-23 11:25:12,912 | INFO | Finished processing limited batch of station files.
+2025-07-23 12:10:27,397 | INFO | Found 11639 total CSVs, processing first 400 files.
+2025-07-23 12:10:27,397 | INFO | Processing 01001099999
+2025-07-23 12:10:27,444 | INFO | Saved Parquet: data/processed/2025/01001099999.parquet
+2025-07-23 12:10:28,953 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01001099999.parquet
+2025-07-23 12:10:28,954 | INFO | Processing 01001499999
+2025-07-23 12:10:28,970 | INFO | Saved Parquet: data/processed/2025/01001499999.parquet
+2025-07-23 12:10:29,579 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01001499999.parquet
+2025-07-23 12:10:29,579 | INFO | Processing 01002099999
+2025-07-23 12:10:29,595 | INFO | Saved Parquet: data/processed/2025/01002099999.parquet
+2025-07-23 12:10:30,178 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01002099999.parquet
+2025-07-23 12:10:30,179 | INFO | Processing 01003099999
+2025-07-23 12:10:30,189 | INFO | Saved Parquet: data/processed/2025/01003099999.parquet
+2025-07-23 12:10:30,792 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01003099999.parquet
+2025-07-23 12:10:30,793 | INFO | Processing 01006099999
+2025-07-23 12:10:30,806 | INFO | Saved Parquet: data/processed/2025/01006099999.parquet
+2025-07-23 12:10:31,510 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01006099999.parquet
+2025-07-23 12:10:31,510 | INFO | Processing 01007099999
+2025-07-23 12:10:31,520 | INFO | Saved Parquet: data/processed/2025/01007099999.parquet
+2025-07-23 12:10:32,124 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01007099999.parquet
+2025-07-23 12:10:32,124 | INFO | Processing 01008099999
+2025-07-23 12:10:32,134 | INFO | Saved Parquet: data/processed/2025/01008099999.parquet
+2025-07-23 12:10:32,738 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01008099999.parquet
+2025-07-23 12:10:32,739 | INFO | Processing 01009099999
+2025-07-23 12:10:32,751 | INFO | Saved Parquet: data/processed/2025/01009099999.parquet
+2025-07-23 12:10:33,251 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01009099999.parquet
+2025-07-23 12:10:33,251 | INFO | Processing 01010099999
+2025-07-23 12:10:33,263 | INFO | Saved Parquet: data/processed/2025/01010099999.parquet
+2025-07-23 12:10:33,865 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01010099999.parquet
+2025-07-23 12:10:33,865 | INFO | Processing 01011099999
+2025-07-23 12:10:33,883 | INFO | Saved Parquet: data/processed/2025/01011099999.parquet
+2025-07-23 12:10:34,479 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01011099999.parquet
+2025-07-23 12:10:34,480 | INFO | Processing 01015099999
+2025-07-23 12:10:34,499 | INFO | Saved Parquet: data/processed/2025/01015099999.parquet
+2025-07-23 12:10:35,094 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01015099999.parquet
+2025-07-23 12:10:35,094 | INFO | Processing 01016099999
+2025-07-23 12:10:35,111 | INFO | Saved Parquet: data/processed/2025/01016099999.parquet
+2025-07-23 12:10:35,708 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01016099999.parquet
+2025-07-23 12:10:35,708 | INFO | Processing 01017099999
+2025-07-23 12:10:35,726 | INFO | Saved Parquet: data/processed/2025/01017099999.parquet
+2025-07-23 12:10:36,322 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01017099999.parquet
+2025-07-23 12:10:36,322 | INFO | Processing 01020099999
+2025-07-23 12:10:36,334 | INFO | Saved Parquet: data/processed/2025/01020099999.parquet
+2025-07-23 12:10:36,935 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01020099999.parquet
+2025-07-23 12:10:36,935 | INFO | Processing 01023099999
+2025-07-23 12:10:36,953 | INFO | Saved Parquet: data/processed/2025/01023099999.parquet
+2025-07-23 12:10:37,551 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01023099999.parquet
+2025-07-23 12:10:37,551 | INFO | Processing 01023199999
+2025-07-23 12:10:37,564 | INFO | Saved Parquet: data/processed/2025/01023199999.parquet
+2025-07-23 12:10:38,165 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01023199999.parquet
+2025-07-23 12:10:38,166 | INFO | Processing 01025099999
+2025-07-23 12:10:38,182 | INFO | Saved Parquet: data/processed/2025/01025099999.parquet
+2025-07-23 12:10:38,883 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01025099999.parquet
+2025-07-23 12:10:38,883 | INFO | Processing 01026099999
+2025-07-23 12:10:38,893 | INFO | Saved Parquet: data/processed/2025/01026099999.parquet
+2025-07-23 12:10:39,497 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01026099999.parquet
+2025-07-23 12:10:39,497 | INFO | Processing 01027099999
+2025-07-23 12:10:39,514 | INFO | Saved Parquet: data/processed/2025/01027099999.parquet
+2025-07-23 12:10:40,110 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01027099999.parquet
+2025-07-23 12:10:40,111 | INFO | Processing 01028099999
+2025-07-23 12:10:40,119 | INFO | Saved Parquet: data/processed/2025/01028099999.parquet
+2025-07-23 12:10:40,726 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01028099999.parquet
+2025-07-23 12:10:40,726 | INFO | Processing 01030099999
+2025-07-23 12:10:40,738 | INFO | Saved Parquet: data/processed/2025/01030099999.parquet
+2025-07-23 12:10:41,238 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01030099999.parquet
+2025-07-23 12:10:41,238 | INFO | Processing 01033099999
+2025-07-23 12:10:41,249 | INFO | Saved Parquet: data/processed/2025/01033099999.parquet
+2025-07-23 12:10:41,852 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01033099999.parquet
+2025-07-23 12:10:41,853 | INFO | Processing 01035099999
+2025-07-23 12:10:41,866 | INFO | Saved Parquet: data/processed/2025/01035099999.parquet
+2025-07-23 12:10:42,467 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01035099999.parquet
+2025-07-23 12:10:42,467 | INFO | Processing 01037099999
+2025-07-23 12:10:42,486 | INFO | Saved Parquet: data/processed/2025/01037099999.parquet
+2025-07-23 12:10:42,949 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01037099999.parquet
+2025-07-23 12:10:42,950 | INFO | Processing 01042099999
+2025-07-23 12:10:42,960 | INFO | Saved Parquet: data/processed/2025/01042099999.parquet
+2025-07-23 12:10:43,593 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01042099999.parquet
+2025-07-23 12:10:43,593 | INFO | Processing 01043099999
+2025-07-23 12:10:43,606 | INFO | Saved Parquet: data/processed/2025/01043099999.parquet
+2025-07-23 12:12:30,946 | INFO | Found 11639 total CSVs, processing first 400 files.
+2025-07-23 12:12:30,946 | INFO | Processing 01001099999
+2025-07-23 12:12:30,991 | INFO | Saved Parquet: data/processed/2025/01001099999.parquet
+2025-07-23 12:12:33,076 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01001099999.parquet
+2025-07-23 12:12:33,076 | INFO | Processing 01001499999
+2025-07-23 12:12:33,086 | INFO | Saved Parquet: data/processed/2025/01001499999.parquet
+2025-07-23 12:12:33,675 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01001499999.parquet
+2025-07-23 12:12:33,675 | INFO | Processing 01002099999
+2025-07-23 12:12:33,683 | INFO | Saved Parquet: data/processed/2025/01002099999.parquet
+2025-07-23 12:12:34,441 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01002099999.parquet
+2025-07-23 12:12:34,442 | INFO | Processing 01003099999
+2025-07-23 12:12:34,453 | INFO | Saved Parquet: data/processed/2025/01003099999.parquet
+2025-07-23 12:12:34,970 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01003099999.parquet
+2025-07-23 12:12:34,971 | INFO | Processing 01006099999
+2025-07-23 12:12:34,989 | INFO | Saved Parquet: data/processed/2025/01006099999.parquet
+2025-07-23 12:12:35,620 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01006099999.parquet
+2025-07-23 12:12:35,621 | INFO | Processing 01007099999
+2025-07-23 12:12:35,638 | INFO | Saved Parquet: data/processed/2025/01007099999.parquet
+2025-07-23 12:12:36,235 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01007099999.parquet
+2025-07-23 12:12:36,235 | INFO | Processing 01008099999
+2025-07-23 12:12:36,256 | INFO | Saved Parquet: data/processed/2025/01008099999.parquet
+2025-07-23 12:12:36,933 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01008099999.parquet
+2025-07-23 12:12:36,934 | INFO | Processing 01009099999
+2025-07-23 12:12:36,952 | INFO | Saved Parquet: data/processed/2025/01009099999.parquet
+2025-07-23 12:12:37,567 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01009099999.parquet
+2025-07-23 12:12:37,567 | INFO | Processing 01010099999
+2025-07-23 12:12:37,582 | INFO | Saved Parquet: data/processed/2025/01010099999.parquet
+2025-07-23 12:12:38,180 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01010099999.parquet
+2025-07-23 12:12:38,181 | INFO | Processing 01011099999
+2025-07-23 12:12:38,198 | INFO | Saved Parquet: data/processed/2025/01011099999.parquet
+2025-07-23 12:12:38,796 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01011099999.parquet
+2025-07-23 12:12:38,796 | INFO | Processing 01015099999
+2025-07-23 12:12:38,813 | INFO | Saved Parquet: data/processed/2025/01015099999.parquet
+2025-07-23 12:12:39,512 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01015099999.parquet
+2025-07-23 12:12:39,513 | INFO | Processing 01016099999
+2025-07-23 12:12:39,526 | INFO | Saved Parquet: data/processed/2025/01016099999.parquet
+2025-07-23 12:12:40,126 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01016099999.parquet
+2025-07-23 12:12:40,126 | INFO | Processing 01017099999
+2025-07-23 12:12:40,139 | INFO | Saved Parquet: data/processed/2025/01017099999.parquet
+2025-07-23 12:12:40,740 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01017099999.parquet
+2025-07-23 12:12:40,741 | INFO | Processing 01020099999
+2025-07-23 12:12:40,757 | INFO | Saved Parquet: data/processed/2025/01020099999.parquet
+2025-07-23 12:12:41,252 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01020099999.parquet
+2025-07-23 12:12:41,253 | INFO | Processing 01023099999
+2025-07-23 12:12:41,275 | INFO | Saved Parquet: data/processed/2025/01023099999.parquet
+2025-07-23 12:12:41,867 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01023099999.parquet
+2025-07-23 12:12:41,867 | INFO | Processing 01023199999
+2025-07-23 12:12:41,884 | INFO | Saved Parquet: data/processed/2025/01023199999.parquet
+2025-07-23 12:12:42,481 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01023199999.parquet
+2025-07-23 12:12:42,482 | INFO | Processing 01025099999
+2025-07-23 12:12:42,498 | INFO | Saved Parquet: data/processed/2025/01025099999.parquet
+2025-07-23 12:12:43,198 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01025099999.parquet
+2025-07-23 12:12:43,198 | INFO | Processing 01026099999
+2025-07-23 12:12:43,207 | INFO | Saved Parquet: data/processed/2025/01026099999.parquet
+2025-07-23 12:12:43,710 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01026099999.parquet
+2025-07-23 12:12:43,710 | INFO | Processing 01027099999
+2025-07-23 12:12:43,723 | INFO | Saved Parquet: data/processed/2025/01027099999.parquet
+2025-07-23 12:12:44,185 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01027099999.parquet
+2025-07-23 12:12:44,185 | INFO | Processing 01028099999
+2025-07-23 12:12:44,201 | INFO | Saved Parquet: data/processed/2025/01028099999.parquet
+2025-07-23 12:12:44,837 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01028099999.parquet
+2025-07-23 12:12:44,837 | INFO | Processing 01030099999
+2025-07-23 12:12:44,855 | INFO | Saved Parquet: data/processed/2025/01030099999.parquet
+2025-07-23 12:12:45,553 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01030099999.parquet
+2025-07-23 12:12:45,554 | INFO | Processing 01033099999
+2025-07-23 12:12:45,572 | INFO | Saved Parquet: data/processed/2025/01033099999.parquet
+2025-07-23 12:12:46,168 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01033099999.parquet
+2025-07-23 12:12:46,168 | INFO | Processing 01035099999
+2025-07-23 12:12:46,186 | INFO | Saved Parquet: data/processed/2025/01035099999.parquet
+2025-07-23 12:12:46,885 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01035099999.parquet
+2025-07-23 12:12:46,885 | INFO | Processing 01037099999
+2025-07-23 12:12:46,904 | INFO | Saved Parquet: data/processed/2025/01037099999.parquet
+2025-07-23 12:12:47,499 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01037099999.parquet
+2025-07-23 12:12:47,499 | INFO | Processing 01042099999
+2025-07-23 12:12:47,518 | INFO | Saved Parquet: data/processed/2025/01042099999.parquet
+2025-07-23 12:12:48,115 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01042099999.parquet
+2025-07-23 12:12:48,116 | INFO | Processing 01043099999
+2025-07-23 12:12:48,136 | INFO | Saved Parquet: data/processed/2025/01043099999.parquet
+2025-07-23 12:12:48,728 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01043099999.parquet
+2025-07-23 12:12:48,728 | INFO | Processing 01044099999
+2025-07-23 12:12:48,752 | INFO | Saved Parquet: data/processed/2025/01044099999.parquet
+2025-07-23 12:12:49,240 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01044099999.parquet
+2025-07-23 12:12:49,240 | INFO | Processing 01045099999
+2025-07-23 12:12:49,255 | INFO | Saved Parquet: data/processed/2025/01045099999.parquet
+2025-07-23 12:12:49,957 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01045099999.parquet
+2025-07-23 12:12:49,957 | INFO | Processing 01046099999
+2025-07-23 12:12:49,969 | INFO | Saved Parquet: data/processed/2025/01046099999.parquet
+2025-07-23 12:12:50,571 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01046099999.parquet
+2025-07-23 12:12:50,572 | INFO | Processing 01047099999
+2025-07-23 12:12:50,584 | INFO | Saved Parquet: data/processed/2025/01047099999.parquet
+2025-07-23 12:12:51,186 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01047099999.parquet
+2025-07-23 12:12:51,186 | INFO | Processing 01049099999
+2025-07-23 12:12:51,200 | INFO | Saved Parquet: data/processed/2025/01049099999.parquet
+2025-07-23 12:12:51,801 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01049099999.parquet
+2025-07-23 12:12:51,801 | INFO | Processing 01052099999
+2025-07-23 12:12:51,814 | INFO | Saved Parquet: data/processed/2025/01052099999.parquet
+2025-07-23 12:12:52,414 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01052099999.parquet
+2025-07-23 12:12:52,415 | INFO | Processing 01055099999
+2025-07-23 12:12:52,433 | INFO | Saved Parquet: data/processed/2025/01055099999.parquet
+2025-07-23 12:12:53,029 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01055099999.parquet
+2025-07-23 12:12:53,029 | INFO | Processing 01058099999
+2025-07-23 12:12:53,042 | INFO | Saved Parquet: data/processed/2025/01058099999.parquet
+2025-07-23 12:12:53,584 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01058099999.parquet
+2025-07-23 12:12:53,584 | INFO | Processing 01059099999
+2025-07-23 12:12:53,602 | INFO | Saved Parquet: data/processed/2025/01059099999.parquet
+2025-07-23 12:12:54,155 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01059099999.parquet
+2025-07-23 12:12:54,156 | INFO | Processing 01062099999
+2025-07-23 12:12:54,169 | INFO | Saved Parquet: data/processed/2025/01062099999.parquet
+2025-07-23 12:12:54,872 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01062099999.parquet
+2025-07-23 12:12:54,873 | INFO | Processing 01065099999
+2025-07-23 12:12:54,885 | INFO | Saved Parquet: data/processed/2025/01065099999.parquet
+2025-07-23 12:12:55,486 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01065099999.parquet
+2025-07-23 12:12:55,487 | INFO | Processing 01068099999
+2025-07-23 12:12:55,500 | INFO | Saved Parquet: data/processed/2025/01068099999.parquet
+2025-07-23 12:12:56,101 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01068099999.parquet
+2025-07-23 12:12:56,101 | INFO | Processing 01074099999
+2025-07-23 12:12:56,119 | INFO | Saved Parquet: data/processed/2025/01074099999.parquet
+2025-07-23 12:12:56,818 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01074099999.parquet
+2025-07-23 12:12:56,818 | INFO | Processing 01076099999
+2025-07-23 12:12:56,832 | INFO | Saved Parquet: data/processed/2025/01076099999.parquet
+2025-07-23 12:12:57,432 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01076099999.parquet
+2025-07-23 12:12:57,432 | INFO | Processing 01078099999
+2025-07-23 12:12:57,451 | INFO | Saved Parquet: data/processed/2025/01078099999.parquet
+2025-07-23 12:12:58,047 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01078099999.parquet
+2025-07-23 12:12:58,047 | INFO | Processing 01082099999
+2025-07-23 12:12:58,061 | INFO | Saved Parquet: data/processed/2025/01082099999.parquet
+2025-07-23 12:12:58,665 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01082099999.parquet
+2025-07-23 12:12:58,665 | INFO | Processing 01083099999
+2025-07-23 12:12:58,678 | INFO | Saved Parquet: data/processed/2025/01083099999.parquet
+2025-07-23 12:12:59,195 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01083099999.parquet
+2025-07-23 12:12:59,196 | INFO | Processing 01084099999
+2025-07-23 12:12:59,208 | INFO | Saved Parquet: data/processed/2025/01084099999.parquet
+2025-07-23 12:12:59,787 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01084099999.parquet
+2025-07-23 12:12:59,788 | INFO | Processing 01086099999
+2025-07-23 12:12:59,800 | INFO | Saved Parquet: data/processed/2025/01086099999.parquet
+2025-07-23 12:13:00,504 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01086099999.parquet
+2025-07-23 12:13:00,504 | INFO | Processing 01087699999
+2025-07-23 12:13:00,516 | INFO | Saved Parquet: data/processed/2025/01087699999.parquet
+2025-07-23 12:13:01,118 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01087699999.parquet
+2025-07-23 12:13:01,119 | INFO | Processing 01087799999
+2025-07-23 12:13:01,132 | INFO | Saved Parquet: data/processed/2025/01087799999.parquet
+2025-07-23 12:13:01,733 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01087799999.parquet
+2025-07-23 12:13:01,733 | INFO | Processing 01087899999
+2025-07-23 12:13:01,747 | INFO | Saved Parquet: data/processed/2025/01087899999.parquet
+2025-07-23 12:13:02,450 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01087899999.parquet
+2025-07-23 12:13:02,450 | INFO | Processing 01087999999
+2025-07-23 12:13:02,470 | INFO | Saved Parquet: data/processed/2025/01087999999.parquet
+2025-07-23 12:13:02,995 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01087999999.parquet
+2025-07-23 12:13:02,995 | INFO | Processing 01088099999
+2025-07-23 12:13:03,006 | INFO | Saved Parquet: data/processed/2025/01088099999.parquet
+2025-07-23 12:13:03,679 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01088099999.parquet
+2025-07-23 12:13:03,679 | INFO | Processing 01088299999
+2025-07-23 12:13:03,692 | INFO | Saved Parquet: data/processed/2025/01088299999.parquet
+2025-07-23 12:13:04,192 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01088299999.parquet
+2025-07-23 12:13:04,192 | INFO | Processing 01088699999
+2025-07-23 12:13:04,205 | INFO | Saved Parquet: data/processed/2025/01088699999.parquet
+2025-07-23 12:13:04,805 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01088699999.parquet
+2025-07-23 12:13:04,805 | INFO | Processing 01088799999
+2025-07-23 12:13:04,818 | INFO | Saved Parquet: data/processed/2025/01088799999.parquet
+2025-07-23 12:13:05,419 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01088799999.parquet
+2025-07-23 12:13:05,420 | INFO | Processing 01089099999
+2025-07-23 12:13:05,431 | INFO | Saved Parquet: data/processed/2025/01089099999.parquet
+2025-07-23 12:13:06,034 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01089099999.parquet
+2025-07-23 12:13:06,034 | INFO | Processing 01092099999
+2025-07-23 12:13:06,049 | INFO | Saved Parquet: data/processed/2025/01092099999.parquet
+2025-07-23 12:13:07,160 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01092099999.parquet
+2025-07-23 12:13:07,160 | INFO | Processing 01098099999
+2025-07-23 12:13:07,168 | INFO | Saved Parquet: data/processed/2025/01098099999.parquet
+2025-07-23 12:13:07,672 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01098099999.parquet
+2025-07-23 12:13:07,673 | INFO | Processing 01099099999
+2025-07-23 12:13:07,695 | INFO | Saved Parquet: data/processed/2025/01099099999.parquet
+2025-07-23 12:13:08,391 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01099099999.parquet
+2025-07-23 12:13:08,391 | INFO | Processing 01102099999
+2025-07-23 12:13:08,410 | INFO | Saved Parquet: data/processed/2025/01102099999.parquet
+2025-07-23 12:13:08,917 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01102099999.parquet
+2025-07-23 12:13:08,918 | INFO | Processing 01102599999
+2025-07-23 12:13:08,930 | INFO | Saved Parquet: data/processed/2025/01102599999.parquet
+2025-07-23 12:13:09,516 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01102599999.parquet
+2025-07-23 12:13:09,516 | INFO | Processing 01105099999
+2025-07-23 12:13:09,533 | INFO | Saved Parquet: data/processed/2025/01105099999.parquet
+2025-07-23 12:13:10,232 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01105099999.parquet
+2025-07-23 12:13:10,233 | INFO | Processing 01107099999
+2025-07-23 12:13:10,246 | INFO | Saved Parquet: data/processed/2025/01107099999.parquet
+2025-07-23 12:13:10,847 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01107099999.parquet
+2025-07-23 12:13:10,847 | INFO | Processing 01108099999
+2025-07-23 12:13:10,860 | INFO | Saved Parquet: data/processed/2025/01108099999.parquet
+2025-07-23 12:13:11,461 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01108099999.parquet
+2025-07-23 12:13:11,462 | INFO | Processing 01112099999
+2025-07-23 12:13:11,484 | INFO | Saved Parquet: data/processed/2025/01112099999.parquet
+2025-07-23 12:13:12,075 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01112099999.parquet
+2025-07-23 12:13:12,076 | INFO | Processing 01114099999
+2025-07-23 12:13:12,088 | INFO | Saved Parquet: data/processed/2025/01114099999.parquet
+2025-07-23 12:13:12,895 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01114099999.parquet
+2025-07-23 12:13:12,896 | INFO | Processing 01115099999
+2025-07-23 12:13:12,908 | INFO | Saved Parquet: data/processed/2025/01115099999.parquet
+2025-07-23 12:13:13,431 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01115099999.parquet
+2025-07-23 12:13:13,431 | INFO | Processing 01116099999
+2025-07-23 12:13:13,450 | INFO | Saved Parquet: data/processed/2025/01116099999.parquet
+2025-07-23 12:13:14,021 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01116099999.parquet
+2025-07-23 12:13:14,021 | INFO | Processing 01117099999
+2025-07-23 12:13:14,032 | INFO | Saved Parquet: data/processed/2025/01117099999.parquet
+2025-07-23 12:13:14,643 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01117099999.parquet
+2025-07-23 12:13:14,643 | INFO | Processing 01121099999
+2025-07-23 12:13:14,656 | INFO | Saved Parquet: data/processed/2025/01121099999.parquet
+2025-07-23 12:13:15,254 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01121099999.parquet
+2025-07-23 12:13:15,255 | INFO | Processing 01122099999
+2025-07-23 12:13:15,267 | INFO | Saved Parquet: data/processed/2025/01122099999.parquet
+2025-07-23 12:13:15,865 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01122099999.parquet
+2025-07-23 12:13:15,865 | INFO | Processing 01124099999
+2025-07-23 12:13:15,878 | INFO | Saved Parquet: data/processed/2025/01124099999.parquet
+2025-07-23 12:13:16,683 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01124099999.parquet
+2025-07-23 12:13:16,684 | INFO | Processing 01132099999
+2025-07-23 12:13:16,693 | INFO | Saved Parquet: data/processed/2025/01132099999.parquet
+2025-07-23 12:13:17,400 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01132099999.parquet
+2025-07-23 12:13:17,400 | INFO | Processing 01133099999
+2025-07-23 12:13:17,416 | INFO | Saved Parquet: data/processed/2025/01133099999.parquet
+2025-07-23 12:13:18,117 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01133099999.parquet
+2025-07-23 12:13:18,118 | INFO | Processing 01135099999
+2025-07-23 12:13:18,136 | INFO | Saved Parquet: data/processed/2025/01135099999.parquet
+2025-07-23 12:13:18,732 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01135099999.parquet
+2025-07-23 12:13:18,732 | INFO | Processing 01139099999
+2025-07-23 12:13:18,743 | INFO | Saved Parquet: data/processed/2025/01139099999.parquet
+2025-07-23 12:13:19,244 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01139099999.parquet
+2025-07-23 12:13:19,244 | INFO | Processing 01141099999
+2025-07-23 12:13:19,256 | INFO | Saved Parquet: data/processed/2025/01141099999.parquet
+2025-07-23 12:13:19,858 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01141099999.parquet
+2025-07-23 12:13:19,859 | INFO | Processing 01143099999
+2025-07-23 12:13:19,873 | INFO | Saved Parquet: data/processed/2025/01143099999.parquet
+2025-07-23 12:13:20,487 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01143099999.parquet
+2025-07-23 12:13:20,488 | INFO | Processing 01144099999
+2025-07-23 12:13:20,498 | INFO | Saved Parquet: data/processed/2025/01144099999.parquet
+2025-07-23 12:13:21,061 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01144099999.parquet
+2025-07-23 12:13:21,062 | INFO | Processing 01146099999
+2025-07-23 12:13:21,074 | INFO | Saved Parquet: data/processed/2025/01146099999.parquet
+2025-07-23 12:13:21,599 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01146099999.parquet
+2025-07-23 12:13:21,600 | INFO | Processing 01147099999
+2025-07-23 12:13:21,613 | INFO | Saved Parquet: data/processed/2025/01147099999.parquet
+2025-07-23 12:13:22,392 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01147099999.parquet
+2025-07-23 12:13:22,392 | INFO | Processing 01148099999
+2025-07-23 12:13:22,399 | INFO | Saved Parquet: data/processed/2025/01148099999.parquet
+2025-07-23 12:13:23,032 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01148099999.parquet
+2025-07-23 12:13:23,033 | INFO | Processing 01150099999
+2025-07-23 12:13:23,048 | INFO | Saved Parquet: data/processed/2025/01150099999.parquet
+2025-07-23 12:13:23,954 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01150099999.parquet
+2025-07-23 12:13:23,955 | INFO | Processing 01151099999
+2025-07-23 12:13:23,968 | INFO | Saved Parquet: data/processed/2025/01151099999.parquet
+2025-07-23 12:13:24,572 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01151099999.parquet
+2025-07-23 12:13:24,573 | INFO | Processing 01152099999
+2025-07-23 12:13:24,585 | INFO | Saved Parquet: data/processed/2025/01152099999.parquet
+2025-07-23 12:13:25,286 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01152099999.parquet
+2025-07-23 12:13:25,286 | INFO | Processing 01156099999
+2025-07-23 12:13:25,299 | INFO | Saved Parquet: data/processed/2025/01156099999.parquet
+2025-07-23 12:13:25,900 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01156099999.parquet
+2025-07-23 12:13:25,900 | INFO | Processing 01158099999
+2025-07-23 12:13:25,913 | INFO | Saved Parquet: data/processed/2025/01158099999.parquet
+2025-07-23 12:13:26,514 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01158099999.parquet
+2025-07-23 12:13:26,515 | INFO | Processing 01160099999
+2025-07-23 12:13:26,528 | INFO | Saved Parquet: data/processed/2025/01160099999.parquet
+2025-07-23 12:13:27,641 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01160099999.parquet
+2025-07-23 12:13:27,641 | INFO | Processing 01161099999
+2025-07-23 12:13:27,649 | INFO | Saved Parquet: data/processed/2025/01161099999.parquet
+2025-07-23 12:13:28,255 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01161099999.parquet
+2025-07-23 12:13:28,255 | INFO | Processing 01162099999
+2025-07-23 12:13:28,274 | INFO | Saved Parquet: data/processed/2025/01162099999.parquet
+2025-07-23 12:13:28,870 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01162099999.parquet
+2025-07-23 12:13:28,870 | INFO | Processing 01169099999
+2025-07-23 12:13:28,884 | INFO | Saved Parquet: data/processed/2025/01169099999.parquet
+2025-07-23 12:13:29,484 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01169099999.parquet
+2025-07-23 12:13:29,484 | INFO | Processing 01180099999
+2025-07-23 12:13:29,498 | INFO | Saved Parquet: data/processed/2025/01180099999.parquet
+2025-07-23 12:13:30,098 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01180099999.parquet
+2025-07-23 12:13:30,099 | INFO | Processing 01183099999
+2025-07-23 12:13:30,120 | INFO | Saved Parquet: data/processed/2025/01183099999.parquet
+2025-07-23 12:13:30,712 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01183099999.parquet
+2025-07-23 12:13:30,713 | INFO | Processing 01192099999
+2025-07-23 12:13:30,724 | INFO | Saved Parquet: data/processed/2025/01192099999.parquet
+2025-07-23 12:13:31,225 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01192099999.parquet
+2025-07-23 12:13:31,225 | INFO | Processing 01198099999
+2025-07-23 12:13:31,237 | INFO | Saved Parquet: data/processed/2025/01198099999.parquet
+2025-07-23 12:13:31,839 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01198099999.parquet
+2025-07-23 12:13:31,840 | INFO | Processing 01199099999
+2025-07-23 12:13:31,853 | INFO | Saved Parquet: data/processed/2025/01199099999.parquet
+2025-07-23 12:13:32,453 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01199099999.parquet
+2025-07-23 12:13:32,454 | INFO | Processing 01203099999
+2025-07-23 12:13:32,465 | INFO | Saved Parquet: data/processed/2025/01203099999.parquet
+2025-07-23 12:13:33,068 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01203099999.parquet
+2025-07-23 12:13:33,068 | INFO | Processing 01205099999
+2025-07-23 12:13:33,084 | INFO | Saved Parquet: data/processed/2025/01205099999.parquet
+2025-07-23 12:13:33,785 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01205099999.parquet
+2025-07-23 12:13:33,785 | INFO | Processing 01209099999
+2025-07-23 12:13:33,798 | INFO | Saved Parquet: data/processed/2025/01209099999.parquet
+2025-07-23 12:13:34,399 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01209099999.parquet
+2025-07-23 12:13:34,399 | INFO | Processing 01210099999
+2025-07-23 12:13:34,410 | INFO | Saved Parquet: data/processed/2025/01210099999.parquet
+2025-07-23 12:13:34,953 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01210099999.parquet
+2025-07-23 12:13:34,954 | INFO | Processing 01212099999
+2025-07-23 12:13:34,967 | INFO | Saved Parquet: data/processed/2025/01212099999.parquet
+2025-07-23 12:13:35,526 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01212099999.parquet
+2025-07-23 12:13:35,526 | INFO | Processing 01214099999
+2025-07-23 12:13:35,538 | INFO | Saved Parquet: data/processed/2025/01214099999.parquet
+2025-07-23 12:13:36,140 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01214099999.parquet
+2025-07-23 12:13:36,141 | INFO | Processing 01217099999
+2025-07-23 12:13:36,157 | INFO | Saved Parquet: data/processed/2025/01217099999.parquet
+2025-07-23 12:13:37,881 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01217099999.parquet
+2025-07-23 12:13:37,881 | INFO | Processing 01218099999
+2025-07-23 12:13:37,893 | INFO | Saved Parquet: data/processed/2025/01218099999.parquet
+2025-07-23 12:13:38,610 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01218099999.parquet
+2025-07-23 12:13:38,611 | INFO | Processing 01220099999
+2025-07-23 12:13:38,624 | INFO | Saved Parquet: data/processed/2025/01220099999.parquet
+2025-07-23 12:13:39,136 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01220099999.parquet
+2025-07-23 12:13:39,137 | INFO | Processing 01221099999
+2025-07-23 12:13:39,154 | INFO | Saved Parquet: data/processed/2025/01221099999.parquet
+2025-07-23 12:13:39,827 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01221099999.parquet
+2025-07-23 12:13:39,827 | INFO | Processing 01223099999
+2025-07-23 12:13:39,838 | INFO | Saved Parquet: data/processed/2025/01223099999.parquet
+2025-07-23 12:13:40,441 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01223099999.parquet
+2025-07-23 12:13:40,441 | INFO | Processing 01224099999
+2025-07-23 12:13:40,452 | INFO | Saved Parquet: data/processed/2025/01224099999.parquet
+2025-07-23 12:13:41,055 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01224099999.parquet
+2025-07-23 12:13:41,055 | INFO | Processing 01225099999
+2025-07-23 12:13:41,066 | INFO | Saved Parquet: data/processed/2025/01225099999.parquet
+2025-07-23 12:13:41,583 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01225099999.parquet
+2025-07-23 12:13:41,584 | INFO | Processing 01227099999
+2025-07-23 12:13:41,595 | INFO | Saved Parquet: data/processed/2025/01227099999.parquet
+2025-07-23 12:13:42,182 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01227099999.parquet
+2025-07-23 12:13:42,182 | INFO | Processing 01228099999
+2025-07-23 12:13:42,192 | INFO | Saved Parquet: data/processed/2025/01228099999.parquet
+2025-07-23 12:13:42,796 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01228099999.parquet
+2025-07-23 12:13:42,797 | INFO | Processing 01230099999
+2025-07-23 12:13:42,807 | INFO | Saved Parquet: data/processed/2025/01230099999.parquet
+2025-07-23 12:13:43,513 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01230099999.parquet
+2025-07-23 12:13:43,513 | INFO | Processing 01232099999
+2025-07-23 12:13:43,525 | INFO | Saved Parquet: data/processed/2025/01232099999.parquet
+2025-07-23 12:13:44,332 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01232099999.parquet
+2025-07-23 12:13:44,332 | INFO | Processing 01233099999
+2025-07-23 12:13:44,355 | INFO | Saved Parquet: data/processed/2025/01233099999.parquet
+2025-07-23 12:13:44,947 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01233099999.parquet
+2025-07-23 12:13:44,947 | INFO | Processing 01234099999
+2025-07-23 12:13:44,959 | INFO | Saved Parquet: data/processed/2025/01234099999.parquet
+2025-07-23 12:13:45,561 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01234099999.parquet
+2025-07-23 12:13:45,561 | INFO | Processing 01237099999
+2025-07-23 12:13:45,574 | INFO | Saved Parquet: data/processed/2025/01237099999.parquet
+2025-07-23 12:13:46,073 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01237099999.parquet
+2025-07-23 12:13:46,073 | INFO | Processing 01238099999
+2025-07-23 12:13:46,086 | INFO | Saved Parquet: data/processed/2025/01238099999.parquet
+2025-07-23 12:13:46,688 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01238099999.parquet
+2025-07-23 12:13:46,688 | INFO | Processing 01239099999
+2025-07-23 12:13:46,702 | INFO | Saved Parquet: data/processed/2025/01239099999.parquet
+2025-07-23 12:13:47,200 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01239099999.parquet
+2025-07-23 12:13:47,200 | INFO | Processing 01240099999
+2025-07-23 12:13:47,217 | INFO | Saved Parquet: data/processed/2025/01240099999.parquet
+2025-07-23 12:13:47,827 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01240099999.parquet
+2025-07-23 12:13:47,828 | INFO | Processing 01241099999
+2025-07-23 12:13:47,840 | INFO | Saved Parquet: data/processed/2025/01241099999.parquet
+2025-07-23 12:13:48,428 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01241099999.parquet
+2025-07-23 12:13:48,428 | INFO | Processing 01242099999
+2025-07-23 12:13:48,441 | INFO | Saved Parquet: data/processed/2025/01242099999.parquet
+2025-07-23 12:13:49,247 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01242099999.parquet
+2025-07-23 12:13:49,247 | INFO | Processing 01245099999
+2025-07-23 12:13:49,260 | INFO | Saved Parquet: data/processed/2025/01245099999.parquet
+2025-07-23 12:13:49,862 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01245099999.parquet
+2025-07-23 12:13:49,862 | INFO | Processing 01250099999
+2025-07-23 12:13:49,873 | INFO | Saved Parquet: data/processed/2025/01250099999.parquet
+2025-07-23 12:13:50,476 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01250099999.parquet
+2025-07-23 12:13:50,476 | INFO | Processing 01253099999
+2025-07-23 12:13:50,487 | INFO | Saved Parquet: data/processed/2025/01253099999.parquet
+2025-07-23 12:13:51,193 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01253099999.parquet
+2025-07-23 12:13:51,193 | INFO | Processing 01254099999
+2025-07-23 12:13:51,208 | INFO | Saved Parquet: data/processed/2025/01254099999.parquet
+2025-07-23 12:13:51,808 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01254099999.parquet
+2025-07-23 12:13:51,808 | INFO | Processing 01257099999
+2025-07-23 12:13:51,820 | INFO | Saved Parquet: data/processed/2025/01257099999.parquet
+2025-07-23 12:13:52,422 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01257099999.parquet
+2025-07-23 12:13:52,422 | INFO | Processing 01259099999
+2025-07-23 12:13:52,440 | INFO | Saved Parquet: data/processed/2025/01259099999.parquet
+2025-07-23 12:13:52,973 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01259099999.parquet
+2025-07-23 12:13:52,974 | INFO | Processing 01262099999
+2025-07-23 12:13:52,986 | INFO | Saved Parquet: data/processed/2025/01262099999.parquet
+2025-07-23 12:13:53,548 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01262099999.parquet
+2025-07-23 12:13:53,549 | INFO | Processing 01265099999
+2025-07-23 12:13:53,564 | INFO | Saved Parquet: data/processed/2025/01265099999.parquet
+2025-07-23 12:13:54,163 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01265099999.parquet
+2025-07-23 12:13:54,163 | INFO | Processing 01270099999
+2025-07-23 12:13:54,176 | INFO | Saved Parquet: data/processed/2025/01270099999.parquet
+2025-07-23 12:13:55,084 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01270099999.parquet
+2025-07-23 12:13:55,085 | INFO | Processing 01271099999
+2025-07-23 12:13:55,101 | INFO | Saved Parquet: data/processed/2025/01271099999.parquet
+2025-07-23 12:13:55,699 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01271099999.parquet
+2025-07-23 12:13:55,699 | INFO | Processing 01272099999
+2025-07-23 12:13:55,713 | INFO | Saved Parquet: data/processed/2025/01272099999.parquet
+2025-07-23 12:13:56,313 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01272099999.parquet
+2025-07-23 12:13:56,314 | INFO | Processing 01273099999
+2025-07-23 12:13:56,327 | INFO | Saved Parquet: data/processed/2025/01273099999.parquet
+2025-07-23 12:13:56,928 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01273099999.parquet
+2025-07-23 12:13:56,928 | INFO | Processing 01277099999
+2025-07-23 12:13:56,940 | INFO | Saved Parquet: data/processed/2025/01277099999.parquet
+2025-07-23 12:13:57,542 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01277099999.parquet
+2025-07-23 12:13:57,542 | INFO | Processing 01281099999
+2025-07-23 12:13:57,562 | INFO | Saved Parquet: data/processed/2025/01281099999.parquet
+2025-07-23 12:13:58,259 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01281099999.parquet
+2025-07-23 12:13:58,259 | INFO | Processing 01282099999
+2025-07-23 12:13:58,270 | INFO | Saved Parquet: data/processed/2025/01282099999.parquet
+2025-07-23 12:13:58,873 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01282099999.parquet
+2025-07-23 12:13:58,873 | INFO | Processing 01287099999
+2025-07-23 12:13:58,886 | INFO | Saved Parquet: data/processed/2025/01287099999.parquet
+2025-07-23 12:13:59,488 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01287099999.parquet
+2025-07-23 12:13:59,488 | INFO | Processing 01288099999
+2025-07-23 12:13:59,502 | INFO | Saved Parquet: data/processed/2025/01288099999.parquet
+2025-07-23 12:14:00,102 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01288099999.parquet
+2025-07-23 12:14:00,102 | INFO | Processing 01290099999
+2025-07-23 12:14:00,115 | INFO | Saved Parquet: data/processed/2025/01290099999.parquet
+2025-07-23 12:14:00,716 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01290099999.parquet
+2025-07-23 12:14:00,717 | INFO | Processing 01291099999
+2025-07-23 12:14:00,728 | INFO | Saved Parquet: data/processed/2025/01291099999.parquet
+2025-07-23 12:14:01,242 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01291099999.parquet
+2025-07-23 12:14:01,242 | INFO | Processing 01293099999
+2025-07-23 12:14:01,255 | INFO | Saved Parquet: data/processed/2025/01293099999.parquet
+2025-07-23 12:14:01,843 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01293099999.parquet
+2025-07-23 12:14:01,843 | INFO | Processing 01300099999
+2025-07-23 12:14:01,855 | INFO | Saved Parquet: data/processed/2025/01300099999.parquet
+2025-07-23 12:14:02,559 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01300099999.parquet
+2025-07-23 12:14:02,560 | INFO | Processing 01300599999
+2025-07-23 12:14:02,576 | INFO | Saved Parquet: data/processed/2025/01300599999.parquet
+2025-07-23 12:14:03,174 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01300599999.parquet
+2025-07-23 12:14:03,174 | INFO | Processing 01304099999
+2025-07-23 12:14:03,187 | INFO | Saved Parquet: data/processed/2025/01304099999.parquet
+2025-07-23 12:14:03,993 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01304099999.parquet
+2025-07-23 12:14:03,993 | INFO | Processing 01307099999
+2025-07-23 12:14:04,006 | INFO | Saved Parquet: data/processed/2025/01307099999.parquet
+2025-07-23 12:14:04,608 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01307099999.parquet
+2025-07-23 12:14:04,608 | INFO | Processing 01308099999
+2025-07-23 12:14:04,619 | INFO | Saved Parquet: data/processed/2025/01308099999.parquet
+2025-07-23 12:14:05,222 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01308099999.parquet
+2025-07-23 12:14:05,222 | INFO | Processing 01310099999
+2025-07-23 12:14:05,233 | INFO | Saved Parquet: data/processed/2025/01310099999.parquet
+2025-07-23 12:14:05,837 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01310099999.parquet
+2025-07-23 12:14:05,837 | INFO | Processing 01311099999
+2025-07-23 12:14:05,851 | INFO | Saved Parquet: data/processed/2025/01311099999.parquet
+2025-07-23 12:14:06,516 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01311099999.parquet
+2025-07-23 12:14:06,516 | INFO | Processing 01314099999
+2025-07-23 12:14:06,529 | INFO | Saved Parquet: data/processed/2025/01314099999.parquet
+2025-07-23 12:14:07,065 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01314099999.parquet
+2025-07-23 12:14:07,066 | INFO | Processing 01315099999
+2025-07-23 12:14:07,078 | INFO | Saved Parquet: data/processed/2025/01315099999.parquet
+2025-07-23 12:14:07,680 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01315099999.parquet
+2025-07-23 12:14:07,680 | INFO | Processing 01317099999
+2025-07-23 12:14:07,692 | INFO | Saved Parquet: data/processed/2025/01317099999.parquet
+2025-07-23 12:14:08,396 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01317099999.parquet
+2025-07-23 12:14:08,397 | INFO | Processing 01319099999
+2025-07-23 12:14:08,410 | INFO | Saved Parquet: data/processed/2025/01319099999.parquet
+2025-07-23 12:14:09,114 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01319099999.parquet
+2025-07-23 12:14:09,114 | INFO | Processing 01320099999
+2025-07-23 12:14:09,125 | INFO | Saved Parquet: data/processed/2025/01320099999.parquet
+2025-07-23 12:14:09,728 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01320099999.parquet
+2025-07-23 12:14:09,728 | INFO | Processing 01321099999
+2025-07-23 12:14:09,738 | INFO | Saved Parquet: data/processed/2025/01321099999.parquet
+2025-07-23 12:14:10,342 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01321099999.parquet
+2025-07-23 12:14:10,342 | INFO | Processing 01323099999
+2025-07-23 12:14:10,355 | INFO | Saved Parquet: data/processed/2025/01323099999.parquet
+2025-07-23 12:14:10,961 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01323099999.parquet
+2025-07-23 12:14:10,961 | INFO | Processing 01326099999
+2025-07-23 12:14:10,974 | INFO | Saved Parquet: data/processed/2025/01326099999.parquet
+2025-07-23 12:14:11,674 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01326099999.parquet
+2025-07-23 12:14:11,674 | INFO | Processing 01327099999
+2025-07-23 12:14:11,685 | INFO | Saved Parquet: data/processed/2025/01327099999.parquet
+2025-07-23 12:14:12,288 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01327099999.parquet
+2025-07-23 12:14:12,288 | INFO | Processing 01329099999
+2025-07-23 12:14:12,301 | INFO | Saved Parquet: data/processed/2025/01329099999.parquet
+2025-07-23 12:14:12,903 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01329099999.parquet
+2025-07-23 12:14:12,903 | INFO | Processing 01332099999
+2025-07-23 12:14:12,915 | INFO | Saved Parquet: data/processed/2025/01332099999.parquet
+2025-07-23 12:14:13,517 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01332099999.parquet
+2025-07-23 12:14:13,517 | INFO | Processing 01336099999
+2025-07-23 12:14:13,535 | INFO | Saved Parquet: data/processed/2025/01336099999.parquet
+2025-07-23 12:14:14,233 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01336099999.parquet
+2025-07-23 12:14:14,234 | INFO | Processing 01337099999
+2025-07-23 12:14:14,247 | INFO | Saved Parquet: data/processed/2025/01337099999.parquet
+2025-07-23 12:14:14,823 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01337099999.parquet
+2025-07-23 12:14:14,823 | INFO | Processing 01338099999
+2025-07-23 12:14:14,842 | INFO | Saved Parquet: data/processed/2025/01338099999.parquet
+2025-07-23 12:14:15,463 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01338099999.parquet
+2025-07-23 12:14:15,463 | INFO | Processing 01340099999
+2025-07-23 12:14:15,475 | INFO | Saved Parquet: data/processed/2025/01340099999.parquet
+2025-07-23 12:14:16,077 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01340099999.parquet
+2025-07-23 12:14:16,077 | INFO | Processing 01342099999
+2025-07-23 12:14:16,090 | INFO | Saved Parquet: data/processed/2025/01342099999.parquet
+2025-07-23 12:14:16,793 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01342099999.parquet
+2025-07-23 12:14:16,794 | INFO | Processing 01344099999
+2025-07-23 12:14:16,807 | INFO | Saved Parquet: data/processed/2025/01344099999.parquet
+2025-07-23 12:14:17,407 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01344099999.parquet
+2025-07-23 12:14:17,407 | INFO | Processing 01345099999
+2025-07-23 12:14:17,417 | INFO | Saved Parquet: data/processed/2025/01345099999.parquet
+2025-07-23 12:14:18,025 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01345099999.parquet
+2025-07-23 12:14:18,025 | INFO | Processing 01346099999
+2025-07-23 12:14:18,034 | INFO | Saved Parquet: data/processed/2025/01346099999.parquet
+2025-07-23 12:14:18,637 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01346099999.parquet
+2025-07-23 12:14:18,637 | INFO | Processing 01347099999
+2025-07-23 12:14:18,648 | INFO | Saved Parquet: data/processed/2025/01347099999.parquet
+2025-07-23 12:14:19,251 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01347099999.parquet
+2025-07-23 12:14:19,251 | INFO | Processing 01350099999
+2025-07-23 12:14:19,266 | INFO | Saved Parquet: data/processed/2025/01350099999.parquet
+2025-07-23 12:14:19,866 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01350099999.parquet
+2025-07-23 12:14:19,866 | INFO | Processing 01352099999
+2025-07-23 12:14:19,878 | INFO | Saved Parquet: data/processed/2025/01352099999.parquet
+2025-07-23 12:14:20,480 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01352099999.parquet
+2025-07-23 12:14:20,481 | INFO | Processing 01355099999
+2025-07-23 12:14:20,492 | INFO | Saved Parquet: data/processed/2025/01355099999.parquet
+2025-07-23 12:14:21,094 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01355099999.parquet
+2025-07-23 12:14:21,095 | INFO | Processing 01357099999
+2025-07-23 12:14:21,108 | INFO | Saved Parquet: data/processed/2025/01357099999.parquet
+2025-07-23 12:14:21,709 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01357099999.parquet
+2025-07-23 12:14:21,709 | INFO | Processing 01358099999
+2025-07-23 12:14:21,717 | INFO | Saved Parquet: data/processed/2025/01358099999.parquet
+2025-07-23 12:14:22,323 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01358099999.parquet
+2025-07-23 12:14:22,323 | INFO | Processing 01359099999
+2025-07-23 12:14:22,343 | INFO | Saved Parquet: data/processed/2025/01359099999.parquet
+2025-07-23 12:14:22,982 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01359099999.parquet
+2025-07-23 12:14:22,982 | INFO | Processing 01360099999
+2025-07-23 12:14:22,993 | INFO | Saved Parquet: data/processed/2025/01360099999.parquet
+2025-07-23 12:14:23,744 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01360099999.parquet
+2025-07-23 12:14:23,744 | INFO | Processing 01361099999
+2025-07-23 12:14:23,757 | INFO | Saved Parquet: data/processed/2025/01361099999.parquet
+2025-07-23 12:14:24,580 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01361099999.parquet
+2025-07-23 12:14:24,580 | INFO | Processing 01362099999
+2025-07-23 12:14:24,593 | INFO | Saved Parquet: data/processed/2025/01362099999.parquet
+2025-07-23 12:14:25,293 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01362099999.parquet
+2025-07-23 12:14:25,293 | INFO | Processing 01364099999
+2025-07-23 12:14:25,304 | INFO | Saved Parquet: data/processed/2025/01364099999.parquet
+2025-07-23 12:14:25,907 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01364099999.parquet
+2025-07-23 12:14:25,908 | INFO | Processing 01365099999
+2025-07-23 12:14:25,921 | INFO | Saved Parquet: data/processed/2025/01365099999.parquet
+2025-07-23 12:14:26,459 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01365099999.parquet
+2025-07-23 12:14:26,459 | INFO | Processing 01366099999
+2025-07-23 12:14:26,471 | INFO | Saved Parquet: data/processed/2025/01366099999.parquet
+2025-07-23 12:14:27,136 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01366099999.parquet
+2025-07-23 12:14:27,137 | INFO | Processing 01367099999
+2025-07-23 12:14:27,151 | INFO | Saved Parquet: data/processed/2025/01367099999.parquet
+2025-07-23 12:14:27,691 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01367099999.parquet
+2025-07-23 12:14:27,692 | INFO | Processing 01368099999
+2025-07-23 12:14:27,703 | INFO | Saved Parquet: data/processed/2025/01368099999.parquet
+2025-07-23 12:14:29,082 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01368099999.parquet
+2025-07-23 12:14:29,082 | INFO | Processing 01370099999
+2025-07-23 12:14:29,102 | INFO | Saved Parquet: data/processed/2025/01370099999.parquet
+2025-07-23 12:14:29,696 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01370099999.parquet
+2025-07-23 12:14:29,697 | INFO | Processing 01371099999
+2025-07-23 12:14:29,710 | INFO | Saved Parquet: data/processed/2025/01371099999.parquet
+2025-07-23 12:14:30,413 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01371099999.parquet
+2025-07-23 12:14:30,414 | INFO | Processing 01373099999
+2025-07-23 12:14:30,427 | INFO | Saved Parquet: data/processed/2025/01373099999.parquet
+2025-07-23 12:14:30,982 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01373099999.parquet
+2025-07-23 12:14:30,982 | INFO | Processing 01374099999
+2025-07-23 12:14:30,995 | INFO | Saved Parquet: data/processed/2025/01374099999.parquet
+2025-07-23 12:14:31,642 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01374099999.parquet
+2025-07-23 12:14:31,642 | INFO | Processing 01375099999
+2025-07-23 12:14:31,654 | INFO | Saved Parquet: data/processed/2025/01375099999.parquet
+2025-07-23 12:14:32,256 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01375099999.parquet
+2025-07-23 12:14:32,256 | INFO | Processing 01375599999
+2025-07-23 12:14:32,270 | INFO | Saved Parquet: data/processed/2025/01375599999.parquet
+2025-07-23 12:14:32,965 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01375599999.parquet
+2025-07-23 12:14:32,966 | INFO | Processing 01376099999
+2025-07-23 12:14:32,979 | INFO | Saved Parquet: data/processed/2025/01376099999.parquet
+2025-07-23 12:14:33,587 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01376099999.parquet
+2025-07-23 12:14:33,588 | INFO | Processing 01378099999
+2025-07-23 12:14:33,598 | INFO | Saved Parquet: data/processed/2025/01378099999.parquet
+2025-07-23 12:14:34,195 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01378099999.parquet
+2025-07-23 12:14:34,196 | INFO | Processing 01380099999
+2025-07-23 12:14:34,208 | INFO | Saved Parquet: data/processed/2025/01380099999.parquet
+2025-07-23 12:14:34,816 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01380099999.parquet
+2025-07-23 12:14:34,817 | INFO | Processing 01381099999
+2025-07-23 12:14:34,829 | INFO | Saved Parquet: data/processed/2025/01381099999.parquet
+2025-07-23 12:14:35,370 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01381099999.parquet
+2025-07-23 12:14:35,371 | INFO | Processing 01382099999
+2025-07-23 12:14:35,381 | INFO | Saved Parquet: data/processed/2025/01382099999.parquet
+2025-07-23 12:14:35,943 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01382099999.parquet
+2025-07-23 12:14:35,944 | INFO | Processing 01383099999
+2025-07-23 12:14:35,956 | INFO | Saved Parquet: data/processed/2025/01383099999.parquet
+2025-07-23 12:14:36,557 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01383099999.parquet
+2025-07-23 12:14:36,557 | INFO | Processing 01384099999
+2025-07-23 12:14:36,570 | INFO | Saved Parquet: data/processed/2025/01384099999.parquet
+2025-07-23 12:14:37,241 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01384099999.parquet
+2025-07-23 12:14:37,242 | INFO | Processing 01385099999
+2025-07-23 12:14:37,254 | INFO | Saved Parquet: data/processed/2025/01385099999.parquet
+2025-07-23 12:14:38,002 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01385099999.parquet
+2025-07-23 12:14:38,003 | INFO | Processing 01386099999
+2025-07-23 12:14:38,018 | INFO | Saved Parquet: data/processed/2025/01386099999.parquet
+2025-07-23 12:14:38,636 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01386099999.parquet
+2025-07-23 12:14:38,636 | INFO | Processing 01387099999
+2025-07-23 12:14:38,651 | INFO | Saved Parquet: data/processed/2025/01387099999.parquet
+2025-07-23 12:14:39,219 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01387099999.parquet
+2025-07-23 12:14:39,220 | INFO | Processing 01389099999
+2025-07-23 12:14:39,232 | INFO | Saved Parquet: data/processed/2025/01389099999.parquet
+2025-07-23 12:14:39,834 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01389099999.parquet
+2025-07-23 12:14:39,834 | INFO | Processing 01392099999
+2025-07-23 12:14:39,851 | INFO | Saved Parquet: data/processed/2025/01392099999.parquet
+2025-07-23 12:14:40,449 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01392099999.parquet
+2025-07-23 12:14:40,449 | INFO | Processing 01393099999
+2025-07-23 12:14:40,461 | INFO | Saved Parquet: data/processed/2025/01393099999.parquet
+2025-07-23 12:14:41,062 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01393099999.parquet
+2025-07-23 12:14:41,063 | INFO | Processing 01403099999
+2025-07-23 12:14:41,076 | INFO | Saved Parquet: data/processed/2025/01403099999.parquet
+2025-07-23 12:14:41,677 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01403099999.parquet
+2025-07-23 12:14:41,678 | INFO | Processing 01403399999
+2025-07-23 12:14:41,690 | INFO | Saved Parquet: data/processed/2025/01403399999.parquet
+2025-07-23 12:14:43,369 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01403399999.parquet
+2025-07-23 12:14:43,370 | INFO | Processing 01406099999
+2025-07-23 12:14:43,391 | INFO | Saved Parquet: data/processed/2025/01406099999.parquet
+2025-07-23 12:14:44,135 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01406099999.parquet
+2025-07-23 12:14:44,135 | INFO | Processing 01408099999
+2025-07-23 12:14:44,148 | INFO | Saved Parquet: data/processed/2025/01408099999.parquet
+2025-07-23 12:14:44,749 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01408099999.parquet
+2025-07-23 12:14:44,749 | INFO | Processing 01411099999
+2025-07-23 12:14:44,761 | INFO | Saved Parquet: data/processed/2025/01411099999.parquet
+2025-07-23 12:14:45,364 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01411099999.parquet
+2025-07-23 12:14:45,364 | INFO | Processing 01412099999
+2025-07-23 12:14:45,384 | INFO | Saved Parquet: data/processed/2025/01412099999.parquet
+2025-07-23 12:14:45,978 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01412099999.parquet
+2025-07-23 12:14:45,979 | INFO | Processing 01413099999
+2025-07-23 12:14:45,990 | INFO | Saved Parquet: data/processed/2025/01413099999.parquet
+2025-07-23 12:14:46,592 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01413099999.parquet
+2025-07-23 12:14:46,593 | INFO | Processing 01414099999
+2025-07-23 12:14:46,605 | INFO | Saved Parquet: data/processed/2025/01414099999.parquet
+2025-07-23 12:14:47,207 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01414099999.parquet
+2025-07-23 12:14:47,207 | INFO | Processing 01415099999
+2025-07-23 12:14:47,220 | INFO | Saved Parquet: data/processed/2025/01415099999.parquet
+2025-07-23 12:14:47,763 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01415099999.parquet
+2025-07-23 12:14:47,763 | INFO | Processing 01416099999
+2025-07-23 12:14:47,774 | INFO | Saved Parquet: data/processed/2025/01416099999.parquet
+2025-07-23 12:14:48,265 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01416099999.parquet
+2025-07-23 12:14:48,266 | INFO | Processing 01417099999
+2025-07-23 12:14:48,278 | INFO | Saved Parquet: data/processed/2025/01417099999.parquet
+2025-07-23 12:14:48,846 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01417099999.parquet
+2025-07-23 12:14:48,846 | INFO | Processing 01418099999
+2025-07-23 12:14:48,858 | INFO | Saved Parquet: data/processed/2025/01418099999.parquet
+2025-07-23 12:14:49,460 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01418099999.parquet
+2025-07-23 12:14:49,460 | INFO | Processing 01419099999
+2025-07-23 12:14:49,472 | INFO | Saved Parquet: data/processed/2025/01419099999.parquet
+2025-07-23 12:14:50,074 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01419099999.parquet
+2025-07-23 12:14:50,074 | INFO | Processing 01422099999
+2025-07-23 12:14:50,087 | INFO | Saved Parquet: data/processed/2025/01422099999.parquet
+2025-07-23 12:14:50,689 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01422099999.parquet
+2025-07-23 12:14:50,689 | INFO | Processing 01424099999
+2025-07-23 12:14:50,701 | INFO | Saved Parquet: data/processed/2025/01424099999.parquet
+2025-07-23 12:14:51,201 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01424099999.parquet
+2025-07-23 12:14:51,201 | INFO | Processing 01425099999
+2025-07-23 12:14:51,213 | INFO | Saved Parquet: data/processed/2025/01425099999.parquet
+2025-07-23 12:14:51,815 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01425099999.parquet
+2025-07-23 12:14:51,815 | INFO | Processing 01426099999
+2025-07-23 12:14:51,827 | INFO | Saved Parquet: data/processed/2025/01426099999.parquet
+2025-07-23 12:14:52,428 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01426099999.parquet
+2025-07-23 12:14:52,429 | INFO | Processing 01427099999
+2025-07-23 12:14:52,438 | INFO | Saved Parquet: data/processed/2025/01427099999.parquet
+2025-07-23 12:14:52,998 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01427099999.parquet
+2025-07-23 12:14:52,998 | INFO | Processing 01428199999
+2025-07-23 12:14:53,010 | INFO | Saved Parquet: data/processed/2025/01428199999.parquet
+2025-07-23 12:14:53,556 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01428199999.parquet
+2025-07-23 12:14:53,556 | INFO | Processing 01430099999
+2025-07-23 12:14:53,570 | INFO | Saved Parquet: data/processed/2025/01430099999.parquet
+2025-07-23 12:14:54,375 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01430099999.parquet
+2025-07-23 12:14:54,375 | INFO | Processing 01431099999
+2025-07-23 12:14:54,387 | INFO | Saved Parquet: data/processed/2025/01431099999.parquet
+2025-07-23 12:14:54,982 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01431099999.parquet
+2025-07-23 12:14:54,982 | INFO | Processing 01434099999
+2025-07-23 12:14:54,995 | INFO | Saved Parquet: data/processed/2025/01434099999.parquet
+2025-07-23 12:14:55,604 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01434099999.parquet
+2025-07-23 12:14:55,604 | INFO | Processing 01435099999
+2025-07-23 12:14:55,618 | INFO | Saved Parquet: data/processed/2025/01435099999.parquet
+2025-07-23 12:14:56,218 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01435099999.parquet
+2025-07-23 12:14:56,219 | INFO | Processing 01436099999
+2025-07-23 12:14:56,236 | INFO | Saved Parquet: data/processed/2025/01436099999.parquet
+2025-07-23 12:14:56,771 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01436099999.parquet
+2025-07-23 12:14:56,771 | INFO | Processing 01440099999
+2025-07-23 12:14:56,788 | INFO | Saved Parquet: data/processed/2025/01440099999.parquet
+2025-07-23 12:14:57,459 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01440099999.parquet
+2025-07-23 12:14:57,460 | INFO | Processing 01441099999
+2025-07-23 12:14:57,472 | INFO | Saved Parquet: data/processed/2025/01441099999.parquet
+2025-07-23 12:14:58,062 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01441099999.parquet
+2025-07-23 12:14:58,062 | INFO | Processing 01442099999
+2025-07-23 12:14:58,076 | INFO | Saved Parquet: data/processed/2025/01442099999.parquet
+2025-07-23 12:14:58,676 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01442099999.parquet
+2025-07-23 12:14:58,676 | INFO | Processing 01444099999
+2025-07-23 12:14:58,690 | INFO | Saved Parquet: data/processed/2025/01444099999.parquet
+2025-07-23 12:14:59,205 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01444099999.parquet
+2025-07-23 12:14:59,205 | INFO | Processing 01447099999
+2025-07-23 12:14:59,221 | INFO | Saved Parquet: data/processed/2025/01447099999.parquet
+2025-07-23 12:14:59,803 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01447099999.parquet
+2025-07-23 12:14:59,803 | INFO | Processing 01448099999
+2025-07-23 12:14:59,819 | INFO | Saved Parquet: data/processed/2025/01448099999.parquet
+2025-07-23 12:15:00,417 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01448099999.parquet
+2025-07-23 12:15:00,417 | INFO | Processing 01449099999
+2025-07-23 12:15:00,432 | INFO | Saved Parquet: data/processed/2025/01449099999.parquet
+2025-07-23 12:15:01,031 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01449099999.parquet
+2025-07-23 12:15:01,031 | INFO | Processing 01450099999
+2025-07-23 12:15:01,043 | INFO | Saved Parquet: data/processed/2025/01450099999.parquet
+2025-07-23 12:15:01,645 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01450099999.parquet
+2025-07-23 12:15:01,646 | INFO | Processing 01452099999
+2025-07-23 12:15:01,665 | INFO | Saved Parquet: data/processed/2025/01452099999.parquet
+2025-07-23 12:15:02,163 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01452099999.parquet
+2025-07-23 12:15:02,163 | INFO | Processing 01453099999
+2025-07-23 12:15:02,174 | INFO | Saved Parquet: data/processed/2025/01453099999.parquet
+2025-07-23 12:15:02,874 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01453099999.parquet
+2025-07-23 12:15:02,875 | INFO | Processing 01455099999
+2025-07-23 12:15:02,887 | INFO | Saved Parquet: data/processed/2025/01455099999.parquet
+2025-07-23 12:15:03,443 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01455099999.parquet
+2025-07-23 12:15:03,444 | INFO | Processing 01460099999
+2025-07-23 12:15:03,456 | INFO | Saved Parquet: data/processed/2025/01460099999.parquet
+2025-07-23 12:15:04,103 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01460099999.parquet
+2025-07-23 12:15:04,104 | INFO | Processing 01461199999
+2025-07-23 12:15:04,116 | INFO | Saved Parquet: data/processed/2025/01461199999.parquet
+2025-07-23 12:15:04,718 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01461199999.parquet
+2025-07-23 12:15:04,718 | INFO | Processing 01462099999
+2025-07-23 12:15:04,739 | INFO | Saved Parquet: data/processed/2025/01462099999.parquet
+2025-07-23 12:15:05,229 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01462099999.parquet
+2025-07-23 12:15:05,230 | INFO | Processing 01463099999
+2025-07-23 12:15:05,241 | INFO | Saved Parquet: data/processed/2025/01463099999.parquet
+2025-07-23 12:15:05,844 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01463099999.parquet
+2025-07-23 12:15:05,844 | INFO | Processing 01464099999
+2025-07-23 12:15:05,857 | INFO | Saved Parquet: data/processed/2025/01464099999.parquet
+2025-07-23 12:15:06,458 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01464099999.parquet
+2025-07-23 12:15:06,459 | INFO | Processing 01465099999
+2025-07-23 12:15:06,470 | INFO | Saved Parquet: data/processed/2025/01465099999.parquet
+2025-07-23 12:15:07,073 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01465099999.parquet
+2025-07-23 12:15:07,074 | INFO | Processing 01466099999
+2025-07-23 12:15:07,085 | INFO | Saved Parquet: data/processed/2025/01466099999.parquet
+2025-07-23 12:15:07,687 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01466099999.parquet
+2025-07-23 12:15:07,687 | INFO | Processing 01467099999
+2025-07-23 12:15:07,700 | INFO | Saved Parquet: data/processed/2025/01467099999.parquet
+2025-07-23 12:15:08,302 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01467099999.parquet
+2025-07-23 12:15:08,302 | INFO | Processing 01468099999
+2025-07-23 12:15:08,316 | INFO | Saved Parquet: data/processed/2025/01468099999.parquet
+2025-07-23 12:15:08,891 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01468099999.parquet
+2025-07-23 12:15:08,891 | INFO | Processing 01469099999
+2025-07-23 12:15:08,902 | INFO | Saved Parquet: data/processed/2025/01469099999.parquet
+2025-07-23 12:15:09,530 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01469099999.parquet
+2025-07-23 12:15:09,531 | INFO | Processing 01470099999
+2025-07-23 12:15:09,541 | INFO | Saved Parquet: data/processed/2025/01470099999.parquet
+2025-07-23 12:15:10,247 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01470099999.parquet
+2025-07-23 12:15:10,248 | INFO | Processing 01470399999
+2025-07-23 12:15:10,261 | INFO | Saved Parquet: data/processed/2025/01470399999.parquet
+2025-07-23 12:15:10,862 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01470399999.parquet
+2025-07-23 12:15:10,862 | INFO | Processing 01471099999
+2025-07-23 12:15:10,875 | INFO | Saved Parquet: data/processed/2025/01471099999.parquet
+2025-07-23 12:15:11,579 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01471099999.parquet
+2025-07-23 12:15:11,580 | INFO | Processing 01473099999
+2025-07-23 12:15:11,593 | INFO | Saved Parquet: data/processed/2025/01473099999.parquet
+2025-07-23 12:15:12,193 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01473099999.parquet
+2025-07-23 12:15:12,193 | INFO | Processing 01476099999
+2025-07-23 12:15:12,205 | INFO | Saved Parquet: data/processed/2025/01476099999.parquet
+2025-07-23 12:15:12,807 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01476099999.parquet
+2025-07-23 12:15:12,808 | INFO | Processing 01477099999
+2025-07-23 12:15:12,820 | INFO | Saved Parquet: data/processed/2025/01477099999.parquet
+2025-07-23 12:15:13,422 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01477099999.parquet
+2025-07-23 12:15:13,422 | INFO | Processing 01478099999
+2025-07-23 12:15:13,435 | INFO | Saved Parquet: data/processed/2025/01478099999.parquet
+2025-07-23 12:15:14,139 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01478099999.parquet
+2025-07-23 12:15:14,139 | INFO | Processing 01480099999
+2025-07-23 12:15:14,150 | INFO | Saved Parquet: data/processed/2025/01480099999.parquet
+2025-07-23 12:15:14,753 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01480099999.parquet
+2025-07-23 12:15:14,753 | INFO | Processing 01481099999
+2025-07-23 12:15:14,764 | INFO | Saved Parquet: data/processed/2025/01481099999.parquet
+2025-07-23 12:15:15,367 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01481099999.parquet
+2025-07-23 12:15:15,368 | INFO | Processing 01482099999
+2025-07-23 12:15:15,381 | INFO | Saved Parquet: data/processed/2025/01482099999.parquet
+2025-07-23 12:15:15,919 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01482099999.parquet
+2025-07-23 12:15:15,919 | INFO | Processing 01482599999
+2025-07-23 12:15:15,941 | INFO | Saved Parquet: data/processed/2025/01482599999.parquet
+2025-07-23 12:15:16,493 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01482599999.parquet
+2025-07-23 12:15:16,494 | INFO | Processing 01483099999
+2025-07-23 12:15:16,506 | INFO | Saved Parquet: data/processed/2025/01483099999.parquet
+2025-07-23 12:15:17,108 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01483099999.parquet
+2025-07-23 12:15:17,109 | INFO | Processing 01484099999
+2025-07-23 12:15:17,123 | INFO | Saved Parquet: data/processed/2025/01484099999.parquet
+2025-07-23 12:15:17,722 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01484099999.parquet
+2025-07-23 12:15:17,723 | INFO | Processing 01484399999
+2025-07-23 12:15:17,734 | INFO | Saved Parquet: data/processed/2025/01484399999.parquet
+2025-07-23 12:15:18,337 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01484399999.parquet
+2025-07-23 12:15:18,337 | INFO | Processing 01485099999
+2025-07-23 12:15:18,351 | INFO | Saved Parquet: data/processed/2025/01485099999.parquet
+2025-07-23 12:15:18,952 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01485099999.parquet
+2025-07-23 12:15:18,952 | INFO | Processing 01486099999
+2025-07-23 12:15:18,964 | INFO | Saved Parquet: data/processed/2025/01486099999.parquet
+2025-07-23 12:15:19,566 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01486099999.parquet
+2025-07-23 12:15:19,566 | INFO | Processing 01488099999
+2025-07-23 12:15:19,578 | INFO | Saved Parquet: data/processed/2025/01488099999.parquet
+2025-07-23 12:15:20,180 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01488099999.parquet
+2025-07-23 12:15:20,181 | INFO | Processing 01488199999
+2025-07-23 12:15:20,193 | INFO | Saved Parquet: data/processed/2025/01488199999.parquet
+2025-07-23 12:15:20,897 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01488199999.parquet
+2025-07-23 12:15:20,897 | INFO | Processing 01489099999
+2025-07-23 12:15:20,907 | INFO | Saved Parquet: data/processed/2025/01489099999.parquet
+2025-07-23 12:15:21,511 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01489099999.parquet
+2025-07-23 12:15:21,512 | INFO | Processing 01490099999
+2025-07-23 12:15:21,525 | INFO | Saved Parquet: data/processed/2025/01490099999.parquet
+2025-07-23 12:15:22,063 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01490099999.parquet
+2025-07-23 12:15:22,063 | INFO | Processing 01492099999
+2025-07-23 12:15:22,077 | INFO | Saved Parquet: data/processed/2025/01492099999.parquet
+2025-07-23 12:15:22,638 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01492099999.parquet
+2025-07-23 12:15:22,638 | INFO | Processing 01493099999
+2025-07-23 12:15:22,653 | INFO | Saved Parquet: data/processed/2025/01493099999.parquet
+2025-07-23 12:15:23,867 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01493099999.parquet
+2025-07-23 12:15:23,867 | INFO | Processing 01494099999
+2025-07-23 12:15:23,884 | INFO | Saved Parquet: data/processed/2025/01494099999.parquet
+2025-07-23 12:15:24,481 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01494099999.parquet
+2025-07-23 12:15:24,481 | INFO | Processing 01495099999
+2025-07-23 12:15:24,494 | INFO | Saved Parquet: data/processed/2025/01495099999.parquet
+2025-07-23 12:15:25,032 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/01495099999.parquet
+2025-07-23 12:15:25,032 | INFO | Processing 02000199999
+2025-07-23 12:15:25,044 | INFO | Saved Parquet: data/processed/2025/02000199999.parquet
+2025-07-23 12:15:25,608 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02000199999.parquet
+2025-07-23 12:15:25,608 | INFO | Processing 02013099999
+2025-07-23 12:15:25,619 | INFO | Saved Parquet: data/processed/2025/02013099999.parquet
+2025-07-23 12:15:26,222 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02013099999.parquet
+2025-07-23 12:15:26,222 | INFO | Processing 02019099999
+2025-07-23 12:15:26,234 | INFO | Saved Parquet: data/processed/2025/02019099999.parquet
+2025-07-23 12:15:26,939 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02019099999.parquet
+2025-07-23 12:15:26,939 | INFO | Processing 02044099999
+2025-07-23 12:15:26,951 | INFO | Saved Parquet: data/processed/2025/02044099999.parquet
+2025-07-23 12:15:27,488 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02044099999.parquet
+2025-07-23 12:15:27,488 | INFO | Processing 02049099999
+2025-07-23 12:15:27,508 | INFO | Saved Parquet: data/processed/2025/02049099999.parquet
+2025-07-23 12:15:28,168 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02049099999.parquet
+2025-07-23 12:15:28,168 | INFO | Processing 02081099999
+2025-07-23 12:15:28,180 | INFO | Saved Parquet: data/processed/2025/02081099999.parquet
+2025-07-23 12:15:28,884 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02081099999.parquet
+2025-07-23 12:15:28,885 | INFO | Processing 02101099999
+2025-07-23 12:15:28,897 | INFO | Saved Parquet: data/processed/2025/02101099999.parquet
+2025-07-23 12:15:29,499 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02101099999.parquet
+2025-07-23 12:15:29,499 | INFO | Processing 02121099999
+2025-07-23 12:15:29,509 | INFO | Saved Parquet: data/processed/2025/02121099999.parquet
+2025-07-23 12:15:30,113 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02121099999.parquet
+2025-07-23 12:15:30,114 | INFO | Processing 02151099999
+2025-07-23 12:15:30,127 | INFO | Saved Parquet: data/processed/2025/02151099999.parquet
+2025-07-23 12:15:30,728 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02151099999.parquet
+2025-07-23 12:15:30,728 | INFO | Processing 02154099999
+2025-07-23 12:15:30,740 | INFO | Saved Parquet: data/processed/2025/02154099999.parquet
+2025-07-23 12:15:31,342 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02154099999.parquet
+2025-07-23 12:15:31,342 | INFO | Processing 02174099999
+2025-07-23 12:15:31,356 | INFO | Saved Parquet: data/processed/2025/02174099999.parquet
+2025-07-23 12:15:31,958 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02174099999.parquet
+2025-07-23 12:15:31,958 | INFO | Processing 02181099999
+2025-07-23 12:15:31,969 | INFO | Saved Parquet: data/processed/2025/02181099999.parquet
+2025-07-23 12:15:32,521 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02181099999.parquet
+2025-07-23 12:15:32,522 | INFO | Processing 02186099999
+2025-07-23 12:15:32,536 | INFO | Saved Parquet: data/processed/2025/02186099999.parquet
+2025-07-23 12:15:33,083 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02186099999.parquet
+2025-07-23 12:15:33,083 | INFO | Processing 02210099999
+2025-07-23 12:15:33,095 | INFO | Saved Parquet: data/processed/2025/02210099999.parquet
+2025-07-23 12:15:33,800 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02210099999.parquet
+2025-07-23 12:15:33,800 | INFO | Processing 02219099999
+2025-07-23 12:15:33,812 | INFO | Saved Parquet: data/processed/2025/02219099999.parquet
+2025-07-23 12:15:34,439 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02219099999.parquet
+2025-07-23 12:15:34,439 | INFO | Processing 02226099999
+2025-07-23 12:15:34,450 | INFO | Saved Parquet: data/processed/2025/02226099999.parquet
+2025-07-23 12:15:35,131 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02226099999.parquet
+2025-07-23 12:15:35,131 | INFO | Processing 02245599999
+2025-07-23 12:15:35,144 | INFO | Saved Parquet: data/processed/2025/02245599999.parquet
+2025-07-23 12:15:35,848 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02245599999.parquet
+2025-07-23 12:15:35,848 | INFO | Processing 02259099999
+2025-07-23 12:15:35,860 | INFO | Saved Parquet: data/processed/2025/02259099999.parquet
+2025-07-23 12:15:36,564 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02259099999.parquet
+2025-07-23 12:15:36,565 | INFO | Processing 02267099999
+2025-07-23 12:15:36,576 | INFO | Saved Parquet: data/processed/2025/02267099999.parquet
+2025-07-23 12:15:37,076 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02267099999.parquet
+2025-07-23 12:15:37,077 | INFO | Processing 02282099999
+2025-07-23 12:15:37,089 | INFO | Saved Parquet: data/processed/2025/02282099999.parquet
+2025-07-23 12:15:37,691 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02282099999.parquet
+2025-07-23 12:15:37,691 | INFO | Processing 02286099999
+2025-07-23 12:15:37,703 | INFO | Saved Parquet: data/processed/2025/02286099999.parquet
+2025-07-23 12:15:38,408 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02286099999.parquet
+2025-07-23 12:15:38,408 | INFO | Processing 02293099999
+2025-07-23 12:15:38,420 | INFO | Saved Parquet: data/processed/2025/02293099999.parquet
+2025-07-23 12:15:39,026 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02293099999.parquet
+2025-07-23 12:15:39,026 | INFO | Processing 02308099999
+2025-07-23 12:15:39,038 | INFO | Saved Parquet: data/processed/2025/02308099999.parquet
+2025-07-23 12:15:39,637 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02308099999.parquet
+2025-07-23 12:15:39,637 | INFO | Processing 02347099999
+2025-07-23 12:15:39,648 | INFO | Saved Parquet: data/processed/2025/02347099999.parquet
+2025-07-23 12:15:40,250 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02347099999.parquet
+2025-07-23 12:15:40,251 | INFO | Processing 02366099999
+2025-07-23 12:15:40,262 | INFO | Saved Parquet: data/processed/2025/02366099999.parquet
+2025-07-23 12:15:40,968 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02366099999.parquet
+2025-07-23 12:15:40,969 | INFO | Processing 02418099999
+2025-07-23 12:15:40,980 | INFO | Saved Parquet: data/processed/2025/02418099999.parquet
+2025-07-23 12:15:41,582 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02418099999.parquet
+2025-07-23 12:15:41,583 | INFO | Processing 02428399999
+2025-07-23 12:15:41,593 | INFO | Saved Parquet: data/processed/2025/02428399999.parquet
+2025-07-23 12:15:42,197 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02428399999.parquet
+2025-07-23 12:15:42,197 | INFO | Processing 02428499999
+2025-07-23 12:15:42,209 | INFO | Saved Parquet: data/processed/2025/02428499999.parquet
+2025-07-23 12:15:42,818 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02428499999.parquet
+2025-07-23 12:15:42,819 | INFO | Processing 02428599999
+2025-07-23 12:15:42,831 | INFO | Saved Parquet: data/processed/2025/02428599999.parquet
+2025-07-23 12:15:43,528 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02428599999.parquet
+2025-07-23 12:15:43,528 | INFO | Processing 02435099999
+2025-07-23 12:15:43,541 | INFO | Saved Parquet: data/processed/2025/02435099999.parquet
+2025-07-23 12:15:44,142 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02435099999.parquet
+2025-07-23 12:15:44,143 | INFO | Processing 02443099999
+2025-07-23 12:15:44,153 | INFO | Saved Parquet: data/processed/2025/02443099999.parquet
+2025-07-23 12:15:44,756 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02443099999.parquet
+2025-07-23 12:15:44,757 | INFO | Processing 02446099999
+2025-07-23 12:15:44,771 | INFO | Saved Parquet: data/processed/2025/02446099999.parquet
+2025-07-23 12:15:45,371 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02446099999.parquet
+2025-07-23 12:15:45,372 | INFO | Processing 02449099999
+2025-07-23 12:15:45,385 | INFO | Saved Parquet: data/processed/2025/02449099999.parquet
+2025-07-23 12:15:48,136 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02449099999.parquet
+2025-07-23 12:15:48,136 | INFO | Processing 02450099999
+2025-07-23 12:15:48,147 | INFO | Saved Parquet: data/processed/2025/02450099999.parquet
+2025-07-23 12:15:48,750 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02450099999.parquet
+2025-07-23 12:15:48,751 | INFO | Processing 02458099999
+2025-07-23 12:15:48,764 | INFO | Saved Parquet: data/processed/2025/02458099999.parquet
+2025-07-23 12:15:49,262 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02458099999.parquet
+2025-07-23 12:15:49,263 | INFO | Processing 02460099999
+2025-07-23 12:15:49,276 | INFO | Saved Parquet: data/processed/2025/02460099999.parquet
+2025-07-23 12:15:49,876 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02460099999.parquet
+2025-07-23 12:15:49,877 | INFO | Processing 02462099999
+2025-07-23 12:15:49,887 | INFO | Saved Parquet: data/processed/2025/02462099999.parquet
+2025-07-23 12:15:50,491 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02462099999.parquet
+2025-07-23 12:15:50,491 | INFO | Processing 02464099999
+2025-07-23 12:15:50,505 | INFO | Saved Parquet: data/processed/2025/02464099999.parquet
+2025-07-23 12:15:52,846 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02464099999.parquet
+2025-07-23 12:15:52,847 | INFO | Processing 02485099999
+2025-07-23 12:15:52,858 | INFO | Saved Parquet: data/processed/2025/02485099999.parquet
+2025-07-23 12:15:53,461 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02485099999.parquet
+2025-07-23 12:15:53,461 | INFO | Processing 02485399999
+2025-07-23 12:15:53,474 | INFO | Saved Parquet: data/processed/2025/02485399999.parquet
+2025-07-23 12:15:54,075 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02485399999.parquet
+2025-07-23 12:15:54,075 | INFO | Processing 02490099999
+2025-07-23 12:15:54,087 | INFO | Saved Parquet: data/processed/2025/02490099999.parquet
+2025-07-23 12:15:54,690 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02490099999.parquet
+2025-07-23 12:15:54,690 | INFO | Processing 02493099999
+2025-07-23 12:15:54,702 | INFO | Saved Parquet: data/processed/2025/02493099999.parquet
+2025-07-23 12:15:55,403 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02493099999.parquet
+2025-07-23 12:15:55,404 | INFO | Processing 02505099999
+2025-07-23 12:15:55,417 | INFO | Saved Parquet: data/processed/2025/02505099999.parquet
+2025-07-23 12:15:56,021 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02505099999.parquet
+2025-07-23 12:15:56,021 | INFO | Processing 02510399999
+2025-07-23 12:15:56,034 | INFO | Saved Parquet: data/processed/2025/02510399999.parquet
+2025-07-23 12:15:56,635 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02510399999.parquet
+2025-07-23 12:15:56,635 | INFO | Processing 02512099999
+2025-07-23 12:15:56,647 | INFO | Saved Parquet: data/processed/2025/02512099999.parquet
+2025-07-23 12:15:57,249 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02512099999.parquet
+2025-07-23 12:15:57,250 | INFO | Processing 02513099999
+2025-07-23 12:15:57,260 | INFO | Saved Parquet: data/processed/2025/02513099999.parquet
+2025-07-23 12:15:57,864 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02513099999.parquet
+2025-07-23 12:15:57,865 | INFO | Processing 02514099999
+2025-07-23 12:15:57,876 | INFO | Saved Parquet: data/processed/2025/02514099999.parquet
+2025-07-23 12:15:58,479 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02514099999.parquet
+2025-07-23 12:15:58,479 | INFO | Processing 02520099999
+2025-07-23 12:15:58,492 | INFO | Saved Parquet: data/processed/2025/02520099999.parquet
+2025-07-23 12:15:59,195 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02520099999.parquet
+2025-07-23 12:15:59,195 | INFO | Processing 02526099999
+2025-07-23 12:15:59,208 | INFO | Saved Parquet: data/processed/2025/02526099999.parquet
+2025-07-23 12:15:59,810 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02526099999.parquet
+2025-07-23 12:15:59,810 | INFO | Processing 02550099999
+2025-07-23 12:15:59,825 | INFO | Saved Parquet: data/processed/2025/02550099999.parquet
+2025-07-23 12:16:00,349 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02550099999.parquet
+2025-07-23 12:16:00,349 | INFO | Processing 02556099999
+2025-07-23 12:16:00,362 | INFO | Saved Parquet: data/processed/2025/02556099999.parquet
+2025-07-23 12:16:00,936 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02556099999.parquet
+2025-07-23 12:16:00,936 | INFO | Processing 02562099999
+2025-07-23 12:16:00,949 | INFO | Saved Parquet: data/processed/2025/02562099999.parquet
+2025-07-23 12:16:01,480 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02562099999.parquet
+2025-07-23 12:16:01,480 | INFO | Processing 02562599999
+2025-07-23 12:16:01,490 | INFO | Saved Parquet: data/processed/2025/02562599999.parquet
+2025-07-23 12:16:02,063 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02562599999.parquet
+2025-07-23 12:16:02,063 | INFO | Processing 02563099999
+2025-07-23 12:16:02,075 | INFO | Saved Parquet: data/processed/2025/02563099999.parquet
+2025-07-23 12:16:02,677 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02563099999.parquet
+2025-07-23 12:16:02,677 | INFO | Processing 02563599999
+2025-07-23 12:16:02,689 | INFO | Saved Parquet: data/processed/2025/02563599999.parquet
+2025-07-23 12:16:03,189 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02563599999.parquet
+2025-07-23 12:16:03,189 | INFO | Processing 02571099999
+2025-07-23 12:16:03,201 | INFO | Saved Parquet: data/processed/2025/02571099999.parquet
+2025-07-23 12:16:03,803 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02571099999.parquet
+2025-07-23 12:16:03,804 | INFO | Processing 02590099999
+2025-07-23 12:16:03,817 | INFO | Saved Parquet: data/processed/2025/02590099999.parquet
+2025-07-23 12:16:04,418 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02590099999.parquet
+2025-07-23 12:16:04,418 | INFO | Processing 02604099999
+2025-07-23 12:16:04,431 | INFO | Saved Parquet: data/processed/2025/02604099999.parquet
+2025-07-23 12:16:05,032 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02604099999.parquet
+2025-07-23 12:16:05,032 | INFO | Processing 02605099999
+2025-07-23 12:16:05,046 | INFO | Saved Parquet: data/processed/2025/02605099999.parquet
+2025-07-23 12:16:05,646 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02605099999.parquet
+2025-07-23 12:16:05,646 | INFO | Processing 02611099999
+2025-07-23 12:16:05,657 | INFO | Saved Parquet: data/processed/2025/02611099999.parquet
+2025-07-23 12:16:06,261 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02611099999.parquet
+2025-07-23 12:16:06,261 | INFO | Processing 02625099999
+2025-07-23 12:16:06,274 | INFO | Saved Parquet: data/processed/2025/02625099999.parquet
+2025-07-23 12:16:06,761 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02625099999.parquet
+2025-07-23 12:16:06,762 | INFO | Processing 02628099999
+2025-07-23 12:16:06,773 | INFO | Saved Parquet: data/processed/2025/02628099999.parquet
+2025-07-23 12:16:07,285 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02628099999.parquet
+2025-07-23 12:16:07,285 | INFO | Processing 02636099999
+2025-07-23 12:16:07,296 | INFO | Saved Parquet: data/processed/2025/02636099999.parquet
+2025-07-23 12:16:07,899 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02636099999.parquet
+2025-07-23 12:16:07,900 | INFO | Processing 02641099999
+2025-07-23 12:16:07,912 | INFO | Saved Parquet: data/processed/2025/02641099999.parquet
+2025-07-23 12:16:08,514 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02641099999.parquet
+2025-07-23 12:16:08,514 | INFO | Processing 02651099999
+2025-07-23 12:16:08,527 | INFO | Saved Parquet: data/processed/2025/02651099999.parquet
+2025-07-23 12:16:09,128 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02651099999.parquet
+2025-07-23 12:16:09,128 | INFO | Processing 02661099999
+2025-07-23 12:16:09,143 | INFO | Saved Parquet: data/processed/2025/02661099999.parquet
+2025-07-23 12:16:09,742 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02661099999.parquet
+2025-07-23 12:16:09,743 | INFO | Processing 02664099999
+2025-07-23 12:16:09,759 | INFO | Saved Parquet: data/processed/2025/02664099999.parquet
+2025-07-23 12:16:10,522 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02664099999.parquet
+2025-07-23 12:16:10,522 | INFO | Processing 02672099999
+2025-07-23 12:16:10,533 | INFO | Saved Parquet: data/processed/2025/02672099999.parquet
+2025-07-23 12:16:11,186 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02672099999.parquet
+2025-07-23 12:16:11,186 | INFO | Processing 02701099999
+2025-07-23 12:16:11,198 | INFO | Saved Parquet: data/processed/2025/02701099999.parquet
+2025-07-23 12:16:11,791 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02701099999.parquet
+2025-07-23 12:16:11,791 | INFO | Processing 02702099999
+2025-07-23 12:16:11,803 | INFO | Saved Parquet: data/processed/2025/02702099999.parquet
+2025-07-23 12:16:12,333 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02702099999.parquet
+2025-07-23 12:16:12,333 | INFO | Processing 02704099999
+2025-07-23 12:16:12,345 | INFO | Saved Parquet: data/processed/2025/02704099999.parquet
+2025-07-23 12:16:12,917 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02704099999.parquet
+2025-07-23 12:16:12,917 | INFO | Processing 02705099999
+2025-07-23 12:16:12,929 | INFO | Saved Parquet: data/processed/2025/02705099999.parquet
+2025-07-23 12:16:13,531 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02705099999.parquet
+2025-07-23 12:16:13,532 | INFO | Processing 02706099999
+2025-07-23 12:16:13,544 | INFO | Saved Parquet: data/processed/2025/02706099999.parquet
+2025-07-23 12:16:14,248 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02706099999.parquet
+2025-07-23 12:16:14,249 | INFO | Processing 02708099999
+2025-07-23 12:16:14,260 | INFO | Saved Parquet: data/processed/2025/02708099999.parquet
+2025-07-23 12:16:14,863 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02708099999.parquet
+2025-07-23 12:16:14,863 | INFO | Processing 02710099999
+2025-07-23 12:16:14,874 | INFO | Saved Parquet: data/processed/2025/02710099999.parquet
+2025-07-23 12:16:15,477 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02710099999.parquet
+2025-07-23 12:16:15,478 | INFO | Processing 02714099999
+2025-07-23 12:16:15,491 | INFO | Saved Parquet: data/processed/2025/02714099999.parquet
+2025-07-23 12:16:16,194 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02714099999.parquet
+2025-07-23 12:16:16,194 | INFO | Processing 02717099999
+2025-07-23 12:16:16,207 | INFO | Saved Parquet: data/processed/2025/02717099999.parquet
+2025-07-23 12:16:16,809 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02717099999.parquet
+2025-07-23 12:16:16,809 | INFO | Processing 02718099999
+2025-07-23 12:16:16,821 | INFO | Saved Parquet: data/processed/2025/02718099999.parquet
+2025-07-23 12:16:17,422 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02718099999.parquet
+2025-07-23 12:16:17,423 | INFO | Processing 02719099999
+2025-07-23 12:16:17,439 | INFO | Saved Parquet: data/processed/2025/02719099999.parquet
+2025-07-23 12:16:17,935 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02719099999.parquet
+2025-07-23 12:16:17,935 | INFO | Processing 02720099999
+2025-07-23 12:16:17,956 | INFO | Saved Parquet: data/processed/2025/02720099999.parquet
+2025-07-23 12:16:18,549 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02720099999.parquet
+2025-07-23 12:16:18,550 | INFO | Processing 02721099999
+2025-07-23 12:16:18,562 | INFO | Saved Parquet: data/processed/2025/02721099999.parquet
+2025-07-23 12:16:19,163 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02721099999.parquet
+2025-07-23 12:16:19,164 | INFO | Processing 02722099999
+2025-07-23 12:16:19,176 | INFO | Saved Parquet: data/processed/2025/02722099999.parquet
+2025-07-23 12:16:19,778 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02722099999.parquet
+2025-07-23 12:16:19,779 | INFO | Processing 02724099999
+2025-07-23 12:16:19,791 | INFO | Saved Parquet: data/processed/2025/02724099999.parquet
+2025-07-23 12:16:20,392 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02724099999.parquet
+2025-07-23 12:16:20,393 | INFO | Processing 02725099999
+2025-07-23 12:16:20,405 | INFO | Saved Parquet: data/processed/2025/02725099999.parquet
+2025-07-23 12:16:20,944 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02725099999.parquet
+2025-07-23 12:16:20,944 | INFO | Processing 02726099999
+2025-07-23 12:16:20,961 | INFO | Saved Parquet: data/processed/2025/02726099999.parquet
+2025-07-23 12:16:21,519 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02726099999.parquet
+2025-07-23 12:16:21,520 | INFO | Processing 02727099999
+2025-07-23 12:16:21,532 | INFO | Saved Parquet: data/processed/2025/02727099999.parquet
+2025-07-23 12:16:22,236 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02727099999.parquet
+2025-07-23 12:16:22,236 | INFO | Processing 02732099999
+2025-07-23 12:16:22,248 | INFO | Saved Parquet: data/processed/2025/02732099999.parquet
+2025-07-23 12:16:22,788 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02732099999.parquet
+2025-07-23 12:16:22,788 | INFO | Processing 02733099999
+2025-07-23 12:16:22,801 | INFO | Saved Parquet: data/processed/2025/02733099999.parquet
+2025-07-23 12:16:23,362 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02733099999.parquet
+2025-07-23 12:16:23,362 | INFO | Processing 02734099999
+2025-07-23 12:16:23,374 | INFO | Saved Parquet: data/processed/2025/02734099999.parquet
+2025-07-23 12:16:23,976 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02734099999.parquet
+2025-07-23 12:16:23,977 | INFO | Processing 02735099999
+2025-07-23 12:16:23,991 | INFO | Saved Parquet: data/processed/2025/02735099999.parquet
+2025-07-23 12:16:24,520 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02735099999.parquet
+2025-07-23 12:16:24,521 | INFO | Processing 02736099999
+2025-07-23 12:16:24,534 | INFO | Saved Parquet: data/processed/2025/02736099999.parquet
+2025-07-23 12:16:25,103 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02736099999.parquet
+2025-07-23 12:16:25,103 | INFO | Processing 02737099999
+2025-07-23 12:16:25,123 | INFO | Saved Parquet: data/processed/2025/02737099999.parquet
+2025-07-23 12:16:25,717 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02737099999.parquet
+2025-07-23 12:16:25,718 | INFO | Processing 02738099999
+2025-07-23 12:16:25,731 | INFO | Saved Parquet: data/processed/2025/02738099999.parquet
+2025-07-23 12:16:26,230 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02738099999.parquet
+2025-07-23 12:16:26,230 | INFO | Processing 02739099999
+2025-07-23 12:16:26,250 | INFO | Saved Parquet: data/processed/2025/02739099999.parquet
+2025-07-23 12:16:26,844 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02739099999.parquet
+2025-07-23 12:16:26,844 | INFO | Processing 02741099999
+2025-07-23 12:16:26,856 | INFO | Saved Parquet: data/processed/2025/02741099999.parquet
+2025-07-23 12:16:27,356 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02741099999.parquet
+2025-07-23 12:16:27,356 | INFO | Processing 02743099999
+2025-07-23 12:16:27,375 | INFO | Saved Parquet: data/processed/2025/02743099999.parquet
+2025-07-23 12:16:27,971 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02743099999.parquet
+2025-07-23 12:16:27,971 | INFO | Processing 02745099999
+2025-07-23 12:16:27,985 | INFO | Saved Parquet: data/processed/2025/02745099999.parquet
+2025-07-23 12:16:28,584 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02745099999.parquet
+2025-07-23 12:16:28,585 | INFO | Processing 02746099999
+2025-07-23 12:16:28,597 | INFO | Saved Parquet: data/processed/2025/02746099999.parquet
+2025-07-23 12:16:29,199 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02746099999.parquet
+2025-07-23 12:16:29,200 | INFO | Processing 02747099999
+2025-07-23 12:16:29,221 | INFO | Saved Parquet: data/processed/2025/02747099999.parquet
+2025-07-23 12:16:30,294 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02747099999.parquet
+2025-07-23 12:16:30,294 | INFO | Processing 02750099999
+2025-07-23 12:16:30,304 | INFO | Saved Parquet: data/processed/2025/02750099999.parquet
+2025-07-23 12:16:31,213 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02750099999.parquet
+2025-07-23 12:16:31,213 | INFO | Processing 02751099999
+2025-07-23 12:16:31,233 | INFO | Saved Parquet: data/processed/2025/02751099999.parquet
+2025-07-23 12:16:31,748 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02751099999.parquet
+2025-07-23 12:16:31,748 | INFO | Processing 02752099999
+2025-07-23 12:16:31,760 | INFO | Saved Parquet: data/processed/2025/02752099999.parquet
+2025-07-23 12:16:32,332 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02752099999.parquet
+2025-07-23 12:16:32,332 | INFO | Processing 02753099999
+2025-07-23 12:16:32,344 | INFO | Saved Parquet: data/processed/2025/02753099999.parquet
+2025-07-23 12:16:32,812 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02753099999.parquet
+2025-07-23 12:16:32,812 | INFO | Processing 02754099999
+2025-07-23 12:16:32,823 | INFO | Saved Parquet: data/processed/2025/02754099999.parquet
+2025-07-23 12:16:33,398 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02754099999.parquet
+2025-07-23 12:16:33,398 | INFO | Processing 02755099999
+2025-07-23 12:16:33,412 | INFO | Saved Parquet: data/processed/2025/02755099999.parquet
+2025-07-23 12:16:33,940 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02755099999.parquet
+2025-07-23 12:16:33,941 | INFO | Processing 02756099999
+2025-07-23 12:16:33,954 | INFO | Saved Parquet: data/processed/2025/02756099999.parquet
+2025-07-23 12:16:34,526 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02756099999.parquet
+2025-07-23 12:16:34,526 | INFO | Processing 02757099999
+2025-07-23 12:16:34,536 | INFO | Saved Parquet: data/processed/2025/02757099999.parquet
+2025-07-23 12:16:35,139 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02757099999.parquet
+2025-07-23 12:16:35,139 | INFO | Processing 02758099999
+2025-07-23 12:16:35,150 | INFO | Saved Parquet: data/processed/2025/02758099999.parquet
+2025-07-23 12:16:35,677 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02758099999.parquet
+2025-07-23 12:16:35,678 | INFO | Processing 02759099999
+2025-07-23 12:16:35,690 | INFO | Saved Parquet: data/processed/2025/02759099999.parquet
+2025-07-23 12:16:36,265 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02759099999.parquet
+2025-07-23 12:16:36,265 | INFO | Processing 02760099999
+2025-07-23 12:16:36,284 | INFO | Saved Parquet: data/processed/2025/02760099999.parquet
+2025-07-23 12:16:36,879 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02760099999.parquet
+2025-07-23 12:16:36,879 | INFO | Processing 02761099999
+2025-07-23 12:16:36,890 | INFO | Saved Parquet: data/processed/2025/02761099999.parquet
+2025-07-23 12:16:37,596 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02761099999.parquet
+2025-07-23 12:16:37,596 | INFO | Processing 02763099999
+2025-07-23 12:16:37,609 | INFO | Saved Parquet: data/processed/2025/02763099999.parquet
+2025-07-23 12:16:38,211 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02763099999.parquet
+2025-07-23 12:16:38,211 | INFO | Processing 02764099999
+2025-07-23 12:16:38,223 | INFO | Saved Parquet: data/processed/2025/02764099999.parquet
+2025-07-23 12:16:38,825 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02764099999.parquet
+2025-07-23 12:16:38,825 | INFO | Processing 02765099999
+2025-07-23 12:16:38,839 | INFO | Saved Parquet: data/processed/2025/02765099999.parquet
+2025-07-23 12:16:39,439 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02765099999.parquet
+2025-07-23 12:16:39,440 | INFO | Processing 02766099999
+2025-07-23 12:16:39,452 | INFO | Saved Parquet: data/processed/2025/02766099999.parquet
+2025-07-23 12:16:40,156 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02766099999.parquet
+2025-07-23 12:16:40,156 | INFO | Processing 02767099999
+2025-07-23 12:16:40,170 | INFO | Saved Parquet: data/processed/2025/02767099999.parquet
+2025-07-23 12:16:40,770 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02767099999.parquet
+2025-07-23 12:16:40,771 | INFO | Processing 02768099999
+2025-07-23 12:16:40,783 | INFO | Saved Parquet: data/processed/2025/02768099999.parquet
+2025-07-23 12:16:41,385 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02768099999.parquet
+2025-07-23 12:16:41,386 | INFO | Processing 02769099999
+2025-07-23 12:16:41,407 | INFO | Saved Parquet: data/processed/2025/02769099999.parquet
+2025-07-23 12:16:41,999 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02769099999.parquet
+2025-07-23 12:16:41,999 | INFO | Processing 02770099999
+2025-07-23 12:16:42,011 | INFO | Saved Parquet: data/processed/2025/02770099999.parquet
+2025-07-23 12:16:42,652 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02770099999.parquet
+2025-07-23 12:16:42,653 | INFO | Processing 02771099999
+2025-07-23 12:16:42,672 | INFO | Saved Parquet: data/processed/2025/02771099999.parquet
+2025-07-23 12:16:43,228 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02771099999.parquet
+2025-07-23 12:16:43,228 | INFO | Processing 02772099999
+2025-07-23 12:16:43,242 | INFO | Saved Parquet: data/processed/2025/02772099999.parquet
+2025-07-23 12:16:43,842 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02772099999.parquet
+2025-07-23 12:16:43,843 | INFO | Processing 02773099999
+2025-07-23 12:16:43,856 | INFO | Saved Parquet: data/processed/2025/02773099999.parquet
+2025-07-23 12:16:44,457 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02773099999.parquet
+2025-07-23 12:16:44,457 | INFO | Processing 02777099999
+2025-07-23 12:16:44,470 | INFO | Saved Parquet: data/processed/2025/02777099999.parquet
+2025-07-23 12:16:45,071 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02777099999.parquet
+2025-07-23 12:16:45,071 | INFO | Processing 02778099999
+2025-07-23 12:16:45,085 | INFO | Saved Parquet: data/processed/2025/02778099999.parquet
+2025-07-23 12:16:45,686 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02778099999.parquet
+2025-07-23 12:16:45,686 | INFO | Processing 02780099999
+2025-07-23 12:16:45,696 | INFO | Saved Parquet: data/processed/2025/02780099999.parquet
+2025-07-23 12:16:46,300 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02780099999.parquet
+2025-07-23 12:16:46,300 | INFO | Processing 02781099999
+2025-07-23 12:16:46,315 | INFO | Saved Parquet: data/processed/2025/02781099999.parquet
+2025-07-23 12:16:46,981 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02781099999.parquet
+2025-07-23 12:16:46,982 | INFO | Processing 02787099999
+2025-07-23 12:16:46,992 | INFO | Saved Parquet: data/processed/2025/02787099999.parquet
+2025-07-23 12:16:47,529 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02787099999.parquet
+2025-07-23 12:16:47,530 | INFO | Processing 02788099999
+2025-07-23 12:16:47,549 | INFO | Saved Parquet: data/processed/2025/02788099999.parquet
+2025-07-23 12:16:48,144 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02788099999.parquet
+2025-07-23 12:16:48,144 | INFO | Processing 02789099999
+2025-07-23 12:16:48,153 | INFO | Saved Parquet: data/processed/2025/02789099999.parquet
+2025-07-23 12:16:48,758 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02789099999.parquet
+2025-07-23 12:16:48,758 | INFO | Processing 02790099999
+2025-07-23 12:16:48,770 | INFO | Saved Parquet: data/processed/2025/02790099999.parquet
+2025-07-23 12:16:49,372 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02790099999.parquet
+2025-07-23 12:16:49,373 | INFO | Processing 02791099999
+2025-07-23 12:16:49,385 | INFO | Saved Parquet: data/processed/2025/02791099999.parquet
+2025-07-23 12:16:50,089 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02791099999.parquet
+2025-07-23 12:16:50,089 | INFO | Processing 02793099999
+2025-07-23 12:16:50,101 | INFO | Saved Parquet: data/processed/2025/02793099999.parquet
+2025-07-23 12:16:50,704 | INFO | Uploaded to S3: s3://climatewatch-data/processed/2025/02793099999.parquet
+2025-07-23 12:16:50,704 | INFO | Finished processing limited batch of station files.
